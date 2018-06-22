@@ -4,7 +4,7 @@
 package my.five;
 
 /**
- * @author 609572762
+ * @author _id_
  *
  */
 public abstract class AbstractInterface {

@@ -1,19 +1,5 @@
 package my.two;
 
-import java.io.File;
-import java.util.Calendar;
-import java.util.List;
-
-import org.hibernate.ejb.event.CallbackHandlerConsumer;
-
-import com.bt.ngae.ConfigReader;
-import com.bt.ngae.InterfaceDetails;
-import com.bt.ngae.hibernate.cisco.iosxe._15._5.nodes.device.configlist.Cosconfig;
-import com.bt.ngae.webserviceclient.CLIDetails;
-
-import edu.emory.mathcs.backport.java.util.concurrent.CountDownLatch;
-import javassist.bytecode.Descriptor.Iterator;
-
 public class TestClass {
 
 
@@ -66,7 +52,7 @@ public class TestClass {
 		// System.out.println(new
 		// CLIDetails().getCliDetails("PE7-STK-EU","cisco"));
 		// String filename =
-		// "C:\\Users\\609572762\\Documents\\work\\WinSCP\\all_configs\\PE37-DUS-EU.cisco-config";
+		// "C:\\Users\\_id_\\Documents\\work\\WinSCP\\all_configs\\PE37-DUS-EU.cisco-config";
 		// System.out.println(filename.substring(filename.lastIndexOf(File.separator)+1,
 		// filename.indexOf(".cisco-config")));
 		//
@@ -77,7 +63,7 @@ public class TestClass {
 		// ConfigReader configReader = null;
 		// try {
 		// Cosconfig cosconfig = (Cosconfig) ConfigReader
-		// .getConfigObject("C:/Users/609572762/Documents/work/WinSCP/all_configs/PE5-LIB-EU.cisco-config",
+		// .getConfigObject("C:/Users/_id_/Documents/work/WinSCP/all_configs/PE5-LIB-EU.cisco-config",
 		// "cisco")
 		// .getResponseObject();
 		// if (cosconfig == null)
