@@ -1,7 +1,6 @@
 package my.wissen;
 
 import java.util.Scanner;
-import java.math.*;
 
 public class LogBalancer {
 	public double balancePoint(Log log) {
@@ -16,21 +15,20 @@ public class LogBalancer {
 			double mid = (start + end) / 2;
 			weight = log.weightUpto(mid);
 			weightRounded = Math.round(weight * 1000d);
-			if (halfWeightRounded == weightRounded) {
+			if (halfWeightRounded == weightRounded)
 				return mid;
-			}
-			if (weightRounded > halfWeightRounded) {
+			if (weightRounded > halfWeightRounded)
 				end = mid;
-			} else {
+			else
 				start = mid;
-			}
 		}
 		return -1;
 	}
 
 	// DO NOT MODIFY CODE BELOW THIS LINE
 	interface Log {
-		double weightUpto(double x); // returns the weightUpto of the part of the log from the left end to a point at distance x from it.
+		double weightUpto(double x); // returns the weightUpto of the part of the log from the left end to a point at
+										// distance x from it.
 
 		double length(); // returns the total length of the log
 	}
@@ -44,7 +42,8 @@ public class LogBalancer {
 			Log c = null;
 			switch (tokens[0]) {
 			case "LINE":
-				c = new Line(Double.parseDouble(tokens[1]), Double.parseDouble(tokens[2]), Double.parseDouble(tokens[3]));
+				c = new Line(Double.parseDouble(tokens[1]), Double.parseDouble(tokens[2]),
+						Double.parseDouble(tokens[3]));
 				break;
 			case "EXP":
 				c = new Exp(Double.parseDouble(tokens[1]));

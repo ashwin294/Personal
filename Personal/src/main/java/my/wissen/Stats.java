@@ -1,12 +1,18 @@
 package my.wissen;
 
-import java.util.*;
-import java.util.concurrent.*;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeSet;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 
 public class Stats {
 	public static class StatisticsAggregatorImpl implements StatisticsAggregator {
 
-		private Map<String, Stats.StatisticsAggregatorImpl.PriceCount> symbolMap = new ConcurrentHashMap<String, Stats.StatisticsAggregatorImpl.PriceCount>();
+		private Map<String, Stats.StatisticsAggregatorImpl.PriceCount> symbolMap = new ConcurrentHashMap<>();
 
 		@Override
 		public void putNewPrice(String symbol, double price) {

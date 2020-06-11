@@ -4,27 +4,20 @@ import java.util.Scanner;
 
 public class BalanceLog {
 	public double balancePoint(Log log) {
-		// YOUR CODE HERE
-		double balanceLength = 0;
-
-		double maxLength = log.length();
-		double weightOfLog = log.weightUpto(maxLength);
-		double halfWeight = weightOfLog / 2;
-
-		double minLength = 0;
-
-		double averageLength = (minLength + maxLength) / 2;
-
+		double start = 0;
+		double end = log.length();
+		double mid;
+		double weight = log.weightUpto(end);
+		double halfWeight = weight / 2;
 		while (true) {
-			weightOfLog = log.weightUpto(averageLength);
-			if (weightOfLog == halfWeight)
-				return averageLength;
-
-			if (weightOfLog > halfWeight) {
-				maxLength = averageLength;
-			} else
-				minLength = averageLength;
-			averageLength = (minLength + maxLength) / 2;
+			mid = (start + end) / 2;
+			weight = log.weightUpto(mid);
+			if (weight == halfWeight)
+				return mid;
+			if (weight > halfWeight)
+				end = mid;
+			else
+				start = mid;
 		}
 	}
 
@@ -62,11 +55,10 @@ public class BalanceLog {
 			if (c == null) {
 				break;
 			}
-			LogBalancer t = new LogBalancer();
+			BalanceLog t = new BalanceLog();
 			double h = t.balancePoint(c);
 			System.out.println(Math.round(h * 1000d));
 		}
-
 		scanner.close();
 	}
 
@@ -166,6 +158,8 @@ public class BalanceLog {
 	}
 }
 
-//select a.name, b.name  from Employee a left join Employee b on (a.manager_id = b.id)
+// select a.name, b.name from Employee a left join Employee b on (a.manager_id =
+// b.id)
 
-//select id, name from Employee where id in (select manager_id from Employee group by manager_id having count(manager_id) > 1);
+// select id, name from Employee where id in (select manager_id from Employee
+// group by manager_id having count(manager_id) > 1);
