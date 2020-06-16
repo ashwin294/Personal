@@ -1,0 +1,8 @@
+
+D
+java:S1068"'Remove this unused "log" private field.(†Žä¹8¬ªêº«.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8¬ªêº«.
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëâÛÐ8¬ªêº«.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²ÄÓ«ýÿÿÿÿ8¬ªêº«.
+]	java:S125"<This block of commented-out lines of code should be removed.(»ùÎúÿÿÿÿ8 ”À¼«.

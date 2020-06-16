@@ -1,0 +1,3500 @@
+<response>
+    <rows>
+        <row _id="row-xkes_5e6y~jjm9" _uuid="00000000-0000-0000-AC92-E9FA363C42FB" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-xkes_5e6y~jjm9">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>6PM</endtime>
+            <permit>19MFF-00105</permit>
+            <location>773 MARKET ST</location>
+            <locationdesc>Pushcart located on Market St. 7 linear feet West of the Fire Hydrant. Must maintain 8 linear
+                feet clearance from Street Artist Booth M22. Reference Street Artist Map #14
+                (http://www.sfartscommission.org/street_artists_program/maps/index.html)
+            </locationdesc>
+            <optionaltext>Kettle Corn, Funnel Cakes, Lemonade, Beverages, Flan, Hot Dogs, Falafel, Hot and Cold
+                Sandwiches, French Fries, Baklava and Pastries
+            </optionaltext>
+            <locationid>1341056</locationid>
+            <start24>10:00</start24>
+            <end24>18:00</end24>
+            <cnn>8746103</cnn>
+            <addr_date_create>2011-11-15T13:48:04</addr_date_create>
+            <addr_date_modified>2011-11-15T13:50:08</addr_date_modified>
+            <block>3706</block>
+            <lot>096</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Kettle Corn Star</applicant>
+            <x>6011164.82111</x>
+            <y>2114324.40143</y>
+            <latitude>37.786160934428665</latitude>
+            <longitude>-122.40512731130576</longitude>
+            <location_2>POINT (-122.405127311306 37.7861609344287)</location_2>
+        </row>
+        <row _id="row-7ppa-ntkk-jtdt" _uuid="00000000-0000-0000-CB14-30AE20AED310" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-7ppa-ntkk-jtdt">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00131</permit>
+            <location>555 MISSION ST</location>
+            <locationdesc>On the south side of Mission Street, approximately 109 feet southwest of Shaw Alley
+            </locationdesc>
+            <optionaltext>Noodles</optionaltext>
+            <locationid>1408986</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>9090000</cnn>
+            <addr_date_create>2020-03-02T15:30:54</addr_date_create>
+            <addr_date_modified>2020-03-02T15:31:56</addr_date_modified>
+            <block>3721</block>
+            <lot>120</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>MOMO INNOVATION LLC</applicant>
+            <x>6012994.31861</x>
+            <y>2115201.30669</y>
+            <latitude>37.788670817471122</latitude>
+            <longitude>-122.39885925769629</longitude>
+            <location_2>POINT (-122.398859257696 37.7886708174711)</location_2>
+        </row>
+        <row _id="row-85gr.7ucb.266e" _uuid="00000000-0000-0000-8197-50F67B462CA7" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-85gr.7ucb.266e">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00020</permit>
+            <location>405 HOWARD ST</location>
+            <locationdesc>On the south side of Howard Street, approximately 107 feet SW of the southern corner of the
+                Howard Street and Fremont Street intersection.
+            </locationdesc>
+            <optionaltext>Meat and vegi rice bowls, meat and vegi salad bowls, meat and vegi wraps, drinks and juices.
+            </optionaltext>
+            <locationid>1332510</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>7032000</cnn>
+            <addr_date_create>2019-06-25T09:41:54</addr_date_create>
+            <addr_date_modified>2019-06-25T10:46:28</addr_date_modified>
+            <block>3737</block>
+            <lot>030</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Flavors of Africa</applicant>
+            <x>6014065.85984</x>
+            <y>2115353.37152</y>
+            <latitude>37.789147999989169</latitude>
+            <longitude>-122.39516251110705</longitude>
+            <location_2>POINT (-122.395162511107 37.7891479999892)</location_2>
+        </row>
+        <row _id="row-k5vb.hrpb_fycg" _uuid="00000000-0000-0000-B218-C228F163111E" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-k5vb.hrpb_fycg">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>4PM</endtime>
+            <permit>19MFF-00109</permit>
+            <location>1 MARKET ST</location>
+            <locationdesc>Approximately 75 feet north of Spear Street fronting Bank of America and 12 feet from curb.
+            </locationdesc>
+            <optionaltext>Halal Gyro over Rice, Halal Chicken over Rice, Halal Gyro, and Chicken Sandwich</optionaltext>
+            <locationid>1341239</locationid>
+            <start24>10:00</start24>
+            <end24>16:00</end24>
+            <cnn>8737101</cnn>
+            <addr_date_create>2015-08-06T09:53:02</addr_date_create>
+            <addr_date_modified>2016-01-05T14:05:37</addr_date_modified>
+            <block>3713</block>
+            <lot>006</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Halal Cart of San Francisco</applicant>
+            <x>6014241.64278</x>
+            <y>2117276.36365</y>
+            <latitude>37.794437862296938</latitude>
+            <longitude>-122.39468903946766</longitude>
+            <location_2>POINT (-122.394689039468 37.7944378622969)</location_2>
+        </row>
+        <row _id="row-fpsf.yvzk~amri" _uuid="00000000-0000-0000-3B21-A27B50CCAA6A" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-fpsf.yvzk~amri">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>8PM</endtime>
+            <permit>19MFF-00108</permit>
+            <location>455 MARKET ST</location>
+            <locationdesc>Pushcart located on the South side of Market St. 125 west of Fremont St. (between bike rack
+                and MUNI support pole)
+            </locationdesc>
+            <optionaltext>Gyros, Kebabs, soft drinks, and water</optionaltext>
+            <locationid>1341234</locationid>
+            <start24>10:00</start24>
+            <end24>20:00</end24>
+            <cnn>8741101</cnn>
+            <addr_date_create>2011-09-29T15:29:01</addr_date_create>
+            <addr_date_modified>2011-09-29T15:29:25</addr_date_modified>
+            <block>3709</block>
+            <lot>012</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Halal Cart, LLC</applicant>
+            <x>6013071.49353</x>
+            <y>2116142.24317</y>
+            <latitude>37.791258708308668</latitude>
+            <longitude>-122.39865829932664</longitude>
+            <location_2>POINT (-122.398658299327 37.7912587083087)</location_2>
+        </row>
+        <row _id="row-3sue~zexn-64u9" _uuid="00000000-0000-0000-FCFA-07F1984ACAB7" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-3sue~zexn-64u9">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00107</permit>
+            <location>400 MONTGOMERY ST</location>
+            <locationdesc>Pushcart located on the California St sidewalk 27LF East of Mongomery St.</locationdesc>
+            <optionaltext>kebabs, halal gyro, grilled halal meat, refreshments</optionaltext>
+            <locationid>1341233</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>9301000</cnn>
+            <addr_date_create>2011-09-19T16:58:53</addr_date_create>
+            <addr_date_modified>2014-06-20T08:46:03</addr_date_modified>
+            <block>0239</block>
+            <lot>009</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Halal Cart, LLC</applicant>
+            <x>6011914.70691</x>
+            <y>2116759.08617</y>
+            <latitude>37.792887895477385</latitude>
+            <longitude>-122.40270417186923</longitude>
+            <location_2>POINT (-122.402704171869 37.7928878954774)</location_2>
+        </row>
+        <row _id="row-2mqx_shwv~zykq" _uuid="00000000-0000-0000-E64B-1477E0C85722" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-2mqx_shwv~zykq">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00032</permit>
+            <location>101 CALIFORNIA ST</location>
+            <locationdesc>Truck located on the California Street frontage approximately 110 feet east of the California
+                Street and Front St intersection
+            </locationdesc>
+            <optionaltext>Senor Sisig: Filipino fusion food: tacos, burritos, nachos, rice plates. Various beverages.
+            </optionaltext>
+            <locationid>1331657</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>3525000</cnn>
+            <addr_date_create>2017-10-02T10:45:56</addr_date_create>
+            <addr_date_modified>2017-10-02T10:46:32</addr_date_modified>
+            <block>0263</block>
+            <lot>011</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Senor Sisig</applicant>
+            <x>6013384.00536</x>
+            <y>2116933.91959</y>
+            <latitude>37.793449871960071</latitude>
+            <longitude>-122.39763255983914</longitude>
+            <location_2>POINT (-122.397632559839 37.7934498719601)</location_2>
+        </row>
+        <row _id="row-epnr-ad2d_vg5m" _uuid="00000000-0000-0000-BD85-32536B448121" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-epnr-ad2d_vg5m">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00061</permit>
+            <location>1477 GROVE ST</location>
+            <locationdesc>10am to 10:20am</locationdesc>
+            <optionaltext>Cold Truck: Breakfast, Sandwiches, Salads, Pre-Packaged Snacks, Beverages</optionaltext>
+            <locationid>1336963</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>6565000</cnn>
+            <addr_date_create>2011-05-12T07:55:50</addr_date_create>
+            <addr_date_modified>2011-05-12T07:56:16</addr_date_modified>
+            <block>1200</block>
+            <lot>015</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>BH &amp; MT LLC</applicant>
+            <x>6000751.01311</x>
+            <y>2110656.00878</y>
+            <latitude>37.775500790207893</latitude>
+            <longitude>-122.44089299008991</longitude>
+            <location_2>POINT (-122.44089299009 37.7755007902079)</location_2>
+        </row>
+        <row _id="row-4mbi~dki4_gwqj" _uuid="00000000-0000-0000-CDB7-DEC62887CD88" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-4mbi~dki4_gwqj">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>6PM</endtime>
+            <permit>19MFF-00059</permit>
+            <location>865 MARKET ST</location>
+            <locationdesc>34 LF east from the Westfield entrance way near the curb</locationdesc>
+            <optionaltext>Kettle Corn, Funnel Cakes, Waffles, Lemonade</optionaltext>
+            <locationid>1336921</locationid>
+            <start24>10:00</start24>
+            <end24>18:00</end24>
+            <cnn>8747103</cnn>
+            <addr_date_create>2012-07-17T16:14:14</addr_date_create>
+            <addr_date_modified>2012-07-17T16:15:13</addr_date_modified>
+            <block>3705</block>
+            <lot>042</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Kettle Corn Star</applicant>
+            <x>6010532.97528</x>
+            <y>2113742.67378</y>
+            <latitude>37.784528305570341</latitude>
+            <longitude>-122.40727231814385</longitude>
+            <location_2>POINT (-122.407272318144 37.7845283055703)</location_2>
+        </row>
+        <row _id="row-3ki3~j9js~mk56" _uuid="00000000-0000-0000-1B98-ABE32C1D7536" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-3ki3~j9js~mk56">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00061</permit>
+            <location>3253 16TH ST</location>
+            <locationdesc>10:25am to 10:30am</locationdesc>
+            <optionaltext>Cold Truck: Breakfast, Sandwiches, Salads, Pre-Packaged Snacks, Beverages</optionaltext>
+            <locationid>1336964</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>736000</cnn>
+            <addr_date_create>2011-05-12T08:13:54</addr_date_create>
+            <addr_date_modified>2011-10-24T16:38:44</addr_date_modified>
+            <block>3567</block>
+            <lot>039</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>BH &amp; MT LLC</applicant>
+            <x>6005169.61389</x>
+            <y>2106614.61318</y>
+            <latitude>37.764654753703397</latitude>
+            <longitude>-122.42532032548149</longitude>
+            <location_2>POINT (-122.425320325481 37.7646547537034)</location_2>
+        </row>
+        <row _id="row-f2mw~8xur_c3fw" _uuid="00000000-0000-0000-65F8-D345B84F958E" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-f2mw~8xur_c3fw">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00039</permit>
+            <location>430 CALIFORNIA ST</location>
+            <locationdesc>On California St, 46ft east of Leidesdorff St</locationdesc>
+            <optionaltext>Lobster rolls, crab rolls, lobster burritos, crab burritos, chicken burritos, fish burritos,
+                chicken burritos, poke bowls, soups, chips &amp; soda.
+            </optionaltext>
+            <locationid>1332562</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>3528000</cnn>
+            <addr_date_create>2015-03-17T08:29:28</addr_date_create>
+            <addr_date_modified>2015-03-17T08:33:37</addr_date_modified>
+            <block>0239</block>
+            <lot>029</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Think is Good Inc.</applicant>
+            <x>6012220.23402</x>
+            <y>2116811.58029</y>
+            <latitude>37.793049085465782</latitude>
+            <longitude>-122.40165071795452</longitude>
+            <location_2>POINT (-122.401650717955 37.7930490854658)</location_2>
+        </row>
+        <row _id="row-6afg~k5j2.mnr6" _uuid="00000000-0000-0000-76FF-64C4E04F57B6" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-6afg~k5j2.mnr6">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00039</permit>
+            <location>100 PINE ST</location>
+            <locationdesc>On Pine St, 51ft west of Front St</locationdesc>
+            <optionaltext>Lobster rolls, crab rolls, lobster burritos, crab burritos, chicken burritos, fish burritos,
+                chicken burritos, poke bowls, soups, chips &amp; soda.
+            </optionaltext>
+            <locationid>1332561</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>10454000</cnn>
+            <addr_date_create>2015-03-17T08:25:28</addr_date_create>
+            <addr_date_modified>2015-03-17T08:26:19</addr_date_modified>
+            <block>0262</block>
+            <lot>020</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Think is Good Inc.</applicant>
+            <x>6013087.34067</x>
+            <y>2116578.67334</y>
+            <latitude>37.792457925715127</latitude>
+            <longitude>-122.39863410799246</longitude>
+            <location_2>POINT (-122.398634107992 37.7924579257151)</location_2>
+        </row>
+        <row _id="row-a7bf~j96p~idza" _uuid="00000000-0000-0000-BFCD-96F355206236" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-a7bf~j96p~idza">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00061</permit>
+            <location>2145 MARKET ST</location>
+            <locationdesc>10:45am to 11am</locationdesc>
+            <optionaltext>Cold Truck: Breakfast, Sandwiches, Salads, Pre-Packaged Snacks, Beverages</optionaltext>
+            <locationid>1336965</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>8764101</cnn>
+            <addr_date_create>2011-05-12T08:15:29</addr_date_create>
+            <addr_date_modified>2011-10-24T16:39:00</addr_date_modified>
+            <block>3543</block>
+            <lot>003B</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>BH &amp; MT LLC</applicant>
+            <x>6003915.64989</x>
+            <y>2107389.84263</y>
+            <latitude>37.766712422593429</latitude>
+            <longitude>-122.42971274952478</longitude>
+            <location_2>POINT (-122.429712749525 37.7667124225934)</location_2>
+        </row>
+        <row _id="row-r5ti_rxaz_z3gb" _uuid="00000000-0000-0000-E7C4-A62070BDA8E4" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-r5ti_rxaz_z3gb">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>19MFF-00060</permit>
+            <location>351 CALIFORNIA ST</location>
+            <locationdesc>Truck located on South side of California Street between Battery Street and Sansome Street.
+            </locationdesc>
+            <optionaltext>Noodles, Meat &amp; Drinks</optionaltext>
+            <locationid>1336955</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>3527000</cnn>
+            <addr_date_create>2018-09-18T12:51:26</addr_date_create>
+            <addr_date_modified>2019-02-12T15:05:48</addr_date_modified>
+            <block>0261</block>
+            <lot>010A</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>MOMO INNOVATION LLC</applicant>
+            <x>6012540.53372</x>
+            <y>2116815.97836</y>
+            <latitude>37.793079029560417</latitude>
+            <longitude>-122.4005427649552</longitude>
+            <location_2>POINT (-122.400542764955 37.7930790295604)</location_2>
+        </row>
+        <row _id="row-2z5b.cfqx_8apx" _uuid="00000000-0000-0000-EE33-19E52CEB0BA2" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-2z5b.cfqx_8apx">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>19MFF-00065</permit>
+            <location>90 BROADWAY</location>
+            <locationdesc>Truck located on East side of Front Street approximately 20' from Vallejo St. intersection.
+            </locationdesc>
+            <optionaltext>Rotisserie Chicken, Ribs, Kickass Salad, Potatos w/fat dripping, chicken wrap.</optionaltext>
+            <locationid>1337052</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>5874000</cnn>
+            <addr_date_create>2014-12-24T14:28:47</addr_date_create>
+            <addr_date_modified>2014-12-24T14:29:29</addr_date_modified>
+            <block>0140</block>
+            <lot>007</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Roadside Rotisserie Corporation / Country Grill</applicant>
+            <x>6012836.56068</x>
+            <y>2118897.74457</y>
+            <latitude>37.798811568758893</latitude>
+            <longitude>-122.39966472178901</longitude>
+            <location_2>POINT (-122.399664721789 37.7988115687589)</location_2>
+        </row>
+        <row _id="row-vmrg-imec~sdns" _uuid="00000000-0000-0000-E3CD-333DC48AB43B" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-vmrg-imec~sdns">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00087</permit>
+            <location>400 HOWARD ST</location>
+            <locationdesc>Truck located in the first parking space 15' NE of the 1st St / Howard St intersection.
+            </locationdesc>
+            <optionaltext>Mexican; Burritos, Burrito Bowls, Salads</optionaltext>
+            <locationid>1337775</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>7032000</cnn>
+            <addr_date_create>2011-10-27T15:35:37</addr_date_create>
+            <addr_date_modified>2011-10-27T15:35:57</addr_date_modified>
+            <block>3720</block>
+            <lot>008</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Papalote Inc.</applicant>
+            <x>6014048.2034</x>
+            <y>2115391.83668</y>
+            <latitude>37.789252634479375</latitude>
+            <longitude>-122.39522629617119</longitude>
+            <location_2>POINT (-122.395226296171 37.7892526344794)</location_2>
+        </row>
+        <row _id="row-kxzc-3itv~a9kv" _uuid="00000000-0000-0000-CE62-787EFC4135D6" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-kxzc-3itv~a9kv">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00049</permit>
+            <location>2701 GREEN ST</location>
+            <locationdesc>10am-10:05am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, Chicken Bake, Canned Soup, Chili Dog, Corn Dog, Cup of
+                Noodles, Egg Muffins, Hamburgers, Cheeseburgers, Hot Dog, Hot sandwiches, quesadillas, Beverages, Flan,
+                Fruits, Yogurt, Candy, Cookies, Chips, Donuts, Snacks
+            </optionaltext>
+            <locationid>1334937</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>6480000</cnn>
+            <addr_date_create>2011-04-21T16:58:58</addr_date_create>
+            <addr_date_modified>2011-04-21T16:59:14</addr_date_modified>
+            <block>0955</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>D &amp; T Catering</applicant>
+            <x>6000113.15199</x>
+            <y>2117788.12991</y>
+            <latitude>37.795047398315603</latitude>
+            <longitude>-122.44361196136104</longitude>
+            <location_2>POINT (-122.443611961361 37.7950473983156)</location_2>
+        </row>
+        <row _id="row-xmjn~2b8e_5srz" _uuid="00000000-0000-0000-027D-9B41EF3A756B" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-xmjn~2b8e_5srz">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00049</permit>
+            <location>2201 VALLEJO ST</location>
+            <locationdesc>10:20am-10:30am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, Chicken Bake, Canned Soup, Chili Dog, Corn Dog, Cup of
+                Noodles, Egg Muffins, Hamburgers, Cheeseburgers, Hot Dog, Hot sandwiches, quesadillas, Beverages, Flan,
+                Fruits, Yogurt, Candy, Cookies, Chips, Donuts, Snacks
+            </optionaltext>
+            <locationid>1334928</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>13115000</cnn>
+            <addr_date_create>2011-04-21T17:02:05</addr_date_create>
+            <addr_date_modified>2011-04-21T17:02:19</addr_date_modified>
+            <block>0564</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>D &amp; T Catering</applicant>
+            <x>6003034.62674</x>
+            <y>2117846.79071</y>
+            <latitude>37.79537465219132</latitude>
+            <longitude>-122.43350742464686</longitude>
+            <location_2>POINT (-122.433507424647 37.7953746521913)</location_2>
+        </row>
+        <row _id="row-f7dc~dqhh.6guj" _uuid="00000000-0000-0000-B6CB-5E2E0BD01FB1" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-f7dc~dqhh.6guj">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00041</permit>
+            <location>355 BERRY ST</location>
+            <locationdesc>351-361 Berry St: 10am-10:10am, 12pm-12:10pm</locationdesc>
+            <optionaltext>Cold Truck: Corn Dogs, Noodle Soups, Candy, Pre-packaged Snacks, Sandwiches, Chips, Coffee,
+                Tea, Various Beverages
+            </optionaltext>
+            <locationid>1332937</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>2955000</cnn>
+            <addr_date_create>2011-05-09T12:47:25</addr_date_create>
+            <addr_date_modified>2011-05-09T12:47:49</addr_date_modified>
+            <block>8707</block>
+            <lot>003</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Mini Mobile Food Catering</applicant>
+            <x>6013489.20368</x>
+            <y>2109494.25169</y>
+            <latitude>37.77302811350372</latitude>
+            <longitude>-122.39674676270032</longitude>
+            <location_2>POINT (-122.3967467627 37.7730281135037)</location_2>
+        </row>
+        <row _id="row-apbx~8wfy_3evr" _uuid="00000000-0000-0000-DD0E-74FEEFE16007" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-apbx~8wfy_3evr">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00041</permit>
+            <location>245 01ST ST</location>
+            <locationdesc>Set-up at 275 1st St: 10:25am-10:30am</locationdesc>
+            <optionaltext>Cold Truck: Corn Dogs, Noodle Soups, Candy, Pre-packaged Snacks, Sandwiches, Chips, Coffee,
+                Tea, Various Beverages
+            </optionaltext>
+            <locationid>1332935</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>110000</cnn>
+            <addr_date_create>2011-05-09T13:06:26</addr_date_create>
+            <addr_date_modified>2011-05-09T13:06:42</addr_date_modified>
+            <block>3737</block>
+            <lot>012</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Mini Mobile Food Catering</applicant>
+            <x>6014118.92075</x>
+            <y>2114840.88759</y>
+            <latitude>37.78774378840766</latitude>
+            <longitude>-122.39494301748285</longitude>
+            <location_2>POINT (-122.394943017483 37.7877437884077)</location_2>
+        </row>
+        <row _id="row-y853-xytf_3j5x" _uuid="00000000-0000-0000-2C71-85EEA139FBB3" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-y853-xytf_3j5x">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00041</permit>
+            <location>350 08TH ST</location>
+            <locationdesc>10:35am-10:40am</locationdesc>
+            <optionaltext>Cold Truck: Corn Dogs, Noodle Soups, Candy, Pre-packaged Snacks, Sandwiches, Chips, Coffee,
+                Tea, Various Beverages
+            </optionaltext>
+            <locationid>1332939</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>414000</cnn>
+            <addr_date_create>2011-05-09T13:07:14</addr_date_create>
+            <addr_date_modified>2011-05-09T13:07:28</addr_date_modified>
+            <block>3756</block>
+            <lot>003</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Mini Mobile Food Catering</applicant>
+            <x>6009929.21709</x>
+            <y>2109972.65871</y>
+            <latitude>37.774142923243552</latitude>
+            <longitude>-122.40909501626419</longitude>
+            <location_2>POINT (-122.409095016264 37.7741429232436)</location_2>
+        </row>
+        <row _id="row-s6bc_pwuj~wvgz" _uuid="00000000-0000-0000-3895-1DA3E3AA3080" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-s6bc_pwuj~wvgz">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>1PM</endtime>
+            <permit>19MFF-00041</permit>
+            <location>491 BAY SHORE BLVD</location>
+            <locationdesc>Set-up at 240 Loomis St: 10:40am-11:05am, 12:05pm-12:10pm</locationdesc>
+            <optionaltext>Cold Truck: Corn Dogs, Noodle Soups, Candy, Pre-packaged Snacks, Sandwiches, Chips, Coffee,
+                Tea, Various Beverages
+            </optionaltext>
+            <locationid>1332948</locationid>
+            <start24>10:00</start24>
+            <end24>13:00</end24>
+            <cnn>8485000</cnn>
+            <addr_date_create>2011-05-09T13:09:55</addr_date_create>
+            <addr_date_modified>2011-05-09T13:10:12</addr_date_modified>
+            <block>5598</block>
+            <lot>008</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Mini Mobile Food Catering</applicant>
+            <x>6010304.31738</x>
+            <y>2097376.17095</y>
+            <latitude>37.739576790778216</latitude>
+            <longitude>-122.40690948237201</longitude>
+            <location_2>POINT (-122.406909482372 37.7395767907782)</location_2>
+        </row>
+        <row _id="row-nrdq_3u7f_37zg" _uuid="00000000-0000-0000-AA53-A8664F756430" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-nrdq_3u7f_37zg">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00041</permit>
+            <location>701 16TH ST</location>
+            <locationdesc>10am-10:10am, 12:20pm-12:45pm</locationdesc>
+            <optionaltext>Cold Truck: Corn Dogs, Noodle Soups, Candy, Pre-packaged Snacks, Sandwiches, Chips, Coffee,
+                Tea, Various Beverages
+            </optionaltext>
+            <locationid>1332946</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>699001</cnn>
+            <addr_date_create>2011-05-09T12:48:34</addr_date_create>
+            <addr_date_modified>2011-05-09T12:48:55</addr_date_modified>
+            <block>8723</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Mini Mobile Food Catering</applicant>
+            <x>6014603.26051</x>
+            <y>2107142.35834</y>
+            <latitude>37.766632277549284</latitude>
+            <longitude>-122.39272850958412</longitude>
+            <location_2>POINT (-122.392728509584 37.7666322775493)</location_2>
+        </row>
+        <row _id="row-8dc2-3p5j~3329" _uuid="00000000-0000-0000-E1E2-EBB77C790CCA" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-8dc2-3p5j~3329">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00041</permit>
+            <location>401 HARRISON ST</location>
+            <locationdesc>10:10am-10:20am</locationdesc>
+            <optionaltext>Cold Truck: Corn Dogs, Noodle Soups, Candy, Pre-packaged Snacks, Sandwiches, Chips, Coffee,
+                Tea, Various Beverages
+            </optionaltext>
+            <locationid>1332945</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>6711000</cnn>
+            <addr_date_create>2011-05-09T12:49:29</addr_date_create>
+            <addr_date_modified>2011-10-24T16:36:12</addr_date_modified>
+            <block>3765</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Mini Mobile Food Catering</applicant>
+            <x>6014952.69695</x>
+            <y>2114445.90991</y>
+            <latitude>37.786705596961951</latitude>
+            <longitude>-122.39203065540119</longitude>
+            <location_2>POINT (-122.392030655401 37.786705596962)</location_2>
+        </row>
+        <row _id="row-m3fi~uh8c.8ei7" _uuid="00000000-0000-0000-56C2-E93D5B6F9D0D" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-m3fi~uh8c.8ei7">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00049</permit>
+            <location>3100 PACIFIC AVE</location>
+            <locationdesc>10am-10:10am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, Chicken Bake, Canned Soup, Chili Dog, Corn Dog, Cup of
+                Noodles, Egg Muffins, Hamburgers, Cheeseburgers, Hot Dog, Hot sandwiches, quesadillas, Beverages, Flan,
+                Fruits, Yogurt, Candy, Cookies, Chips, Donuts, Snacks
+            </optionaltext>
+            <locationid>1334924</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>10163000</cnn>
+            <addr_date_create>2011-04-21T17:04:34</addr_date_create>
+            <addr_date_modified>2011-04-21T17:04:49</addr_date_modified>
+            <block>0965</block>
+            <lot>006</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>D &amp; T Catering</applicant>
+            <x>5999298.01072</x>
+            <y>2116668.79574</y>
+            <latitude>37.791927479842599</latitude>
+            <longitude>-122.44635189957154</longitude>
+            <location_2>POINT (-122.446351899572 37.7919274798426)</location_2>
+        </row>
+        <row _id="row-yj9c-u4dc-7ff8" _uuid="00000000-0000-0000-8C4F-BFFD302B6500" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-yj9c-u4dc-7ff8">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00049</permit>
+            <location>2970 BROADWAY</location>
+            <locationdesc>10:20am-10:25am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, Chicken Bake, Canned Soup, Chili Dog, Corn Dog, Cup of
+                Noodles, Egg Muffins, Hamburgers, Cheeseburgers, Hot Dog, Hot sandwiches, quesadillas, Beverages, Flan,
+                Fruits, Yogurt, Candy, Cookies, Chips, Donuts, Snacks
+            </optionaltext>
+            <locationid>1334934</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>3185000</cnn>
+            <addr_date_create>2011-04-21T17:01:25</addr_date_create>
+            <addr_date_modified>2011-04-21T17:01:39</addr_date_modified>
+            <block>0957</block>
+            <lot>007</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>D &amp; T Catering</applicant>
+            <x>5999413.47153</x>
+            <y>2117030.01762</y>
+            <latitude>37.792925893338463</latitude>
+            <longitude>-122.44597839833835</longitude>
+            <location_2>POINT (-122.445978398338 37.7929258933385)</location_2>
+        </row>
+        <row _id="row-6pek-bsap_kv2h" _uuid="00000000-0000-0000-1783-0B16303F221B" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-6pek-bsap_kv2h">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00049</permit>
+            <location>2840 BROADWAY</location>
+            <locationdesc>Set-up at 2852 Green St: 10:10am-10:15am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, Chicken Bake, Canned Soup, Chili Dog, Corn Dog, Cup of
+                Noodles, Egg Muffins, Hamburgers, Cheeseburgers, Hot Dog, Hot sandwiches, quesadillas, Beverages, Flan,
+                Fruits, Yogurt, Candy, Cookies, Chips, Donuts, Snacks
+            </optionaltext>
+            <locationid>1334932</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>3184000</cnn>
+            <addr_date_create>2011-04-21T17:00:43</addr_date_create>
+            <addr_date_modified>2011-04-21T17:00:57</addr_date_modified>
+            <block>0958</block>
+            <lot>004</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>D &amp; T Catering</applicant>
+            <x>6000019.92014</x>
+            <y>2117114.22219</y>
+            <latitude>37.793191707792722</latitude>
+            <longitude>-122.44388611464584</longitude>
+            <location_2>POINT (-122.443886114646 37.7931917077927)</location_2>
+        </row>
+        <row _id="row-4ivm_nea4_4eqt" _uuid="00000000-0000-0000-CCC2-569B96A766D5" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-4ivm_nea4_4eqt">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00049</permit>
+            <location>3839 WASHINGTON ST</location>
+            <locationdesc>10:30am-10:40am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, Chicken Bake, Canned Soup, Chili Dog, Corn Dog, Cup of
+                Noodles, Egg Muffins, Hamburgers, Cheeseburgers, Hot Dog, Hot sandwiches, quesadillas, Beverages, Flan,
+                Fruits, Yogurt, Candy, Cookies, Chips, Donuts, Snacks
+            </optionaltext>
+            <locationid>1334930</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>13451000</cnn>
+            <addr_date_create>2011-04-21T17:02:55</addr_date_create>
+            <addr_date_modified>2011-04-21T17:03:09</addr_date_modified>
+            <block>0992</block>
+            <lot>034</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>D &amp; T Catering</applicant>
+            <x>5996419.93993</x>
+            <y>2115572.21498</y>
+            <latitude>37.788751768390306</latitude>
+            <longitude>-122.45623065616023</longitude>
+            <location_2>POINT (-122.45623065616 37.7887517683903)</location_2>
+        </row>
+        <row _id="row-fdua.varq-ngna" _uuid="00000000-0000-0000-852A-24C42C475360" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-fdua.varq-ngna">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>9PM</endtime>
+            <permit>19MFF-00112</permit>
+            <location>1020 03RD ST</location>
+            <locationdesc>West side of 3rd St 10am-8:30pm</locationdesc>
+            <optionaltext>sunflower seeds, crackerjacks, bottled water, peanuts, candy</optionaltext>
+            <locationid>1343831</locationid>
+            <start24>10:00</start24>
+            <end24>21:00</end24>
+            <cnn>184001</cnn>
+            <addr_date_create>2011-06-20T10:45:38</addr_date_create>
+            <addr_date_modified>2011-06-20T10:46:07</addr_date_modified>
+            <block>8714</block>
+            <lot>002</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Got Snacks</applicant>
+            <x>6015443.07217</x>
+            <y>2110503.61845</y>
+            <latitude>37.775908165408772</latitude>
+            <longitude>-122.39005855676746</longitude>
+            <location_2>POINT (-122.390058556767 37.7759081654088)</location_2>
+        </row>
+        <row _id="row-6ega_74kh.zdv9" _uuid="00000000-0000-0000-6AF0-51170B753001" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-6ega_74kh.zdv9">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>19MFF-00084</permit>
+            <location>2600 INGALLS ST</location>
+            <optionaltext>Corndogs, fried burrito, rice placet, soda, water, sandwiches, soup, noodle plates
+            </optionaltext>
+            <locationid>1337729</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>7236000</cnn>
+            <addr_date_create>2014-08-19T15:50:13</addr_date_create>
+            <addr_date_modified>2014-11-13T14:29:18</addr_date_modified>
+            <block>4882</block>
+            <lot>001</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Eva's Catering</applicant>
+            <x>6015158.81535</x>
+            <y>2091191.2052</y>
+            <latitude>37.722864565794609</latitude>
+            <longitude>-122.38969271224828</longitude>
+            <location_2>POINT (-122.389692712248 37.7228645657946)</location_2>
+        </row>
+        <row _id="row-xmsi.n3er_3qdk" _uuid="00000000-0000-0000-5973-921CC0DA268E" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-xmsi.n3er_3qdk">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00052</permit>
+            <location>1411 MARKET ST</location>
+            <locationdesc>Set-up at 40 10th St: 10:00am-10:10am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, Noodles, Pre-packaged Snacks, Candy, Desserts Various Beverages
+            </optionaltext>
+            <locationid>1336174</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>8754101</cnn>
+            <addr_date_create>2011-10-24T16:20:05</addr_date_create>
+            <addr_date_modified>2011-10-24T16:20:24</addr_date_modified>
+            <block>3507</block>
+            <lot>041</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Anas Goodies Catering</applicant>
+            <x>6007474.27274</x>
+            <y>2110802.03962</y>
+            <latitude>37.776282373027279</latitude>
+            <longitude>-122.41764591907676</longitude>
+            <location_2>POINT (-122.417645919077 37.7762823730273)</location_2>
+        </row>
+        <row _id="row-4c5x.xrx6.unbw" _uuid="00000000-0000-0000-C7B5-04AF4532A4A5" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-4c5x.xrx6.unbw">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00052</permit>
+            <location>2150 CESAR CHAVEZ ST</location>
+            <locationdesc>10:40am-10:45am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, Noodles, Pre-packaged Snacks, Candy, Desserts Various Beverages
+            </optionaltext>
+            <locationid>1336161</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>2477000</cnn>
+            <addr_date_create>2011-10-24T16:22:27</addr_date_create>
+            <addr_date_modified>2011-10-24T16:22:48</addr_date_modified>
+            <block>4324</block>
+            <lot>002</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Anas Goodies Catering</applicant>
+            <x>6012974.22837</x>
+            <y>2101008.95368</y>
+            <latitude>37.749700678375767</latitude>
+            <longitude>-122.39793279164111</longitude>
+            <location_2>POINT (-122.397932791641 37.7497006783758)</location_2>
+        </row>
+        <row _id="row-t52k_f425.6wxz" _uuid="00000000-0000-0000-4EC4-E57764E8C937" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-t52k_f425.6wxz">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00052</permit>
+            <location>150 OTIS ST</location>
+            <locationdesc>Set-up at 130 Otis St: 10:30am-10:35am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, Noodles, Pre-packaged Snacks, Candy, Desserts Various Beverages
+            </optionaltext>
+            <locationid>1336139</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>10048000</cnn>
+            <addr_date_create>2011-10-24T16:21:42</addr_date_create>
+            <addr_date_modified>2011-10-24T16:21:57</addr_date_modified>
+            <block>3513</block>
+            <lot>008</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Anas Goodies Catering</applicant>
+            <x>6006666.1195</x>
+            <y>2108857.22612</y>
+            <latitude>37.77089687191657</latitude>
+            <longitude>-122.42030348297895</longitude>
+            <location_2>POINT (-122.420303482979 37.7708968719166)</location_2>
+        </row>
+        <row _id="row-b6pg.zb9p.2k7t" _uuid="00000000-0000-0000-555B-01A6F71570A0" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-b6pg.zb9p.2k7t">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00052</permit>
+            <location>368 ELM ST</location>
+            <locationdesc>Set-up at 340 Elm St: 10:10am-10:15am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, Noodles, Pre-packaged Snacks, Candy, Desserts Various Beverages
+            </optionaltext>
+            <locationid>1336166</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5204000</cnn>
+            <addr_date_create>2011-10-24T16:37:26</addr_date_create>
+            <addr_date_modified>2011-10-24T16:37:44</addr_date_modified>
+            <block>0761</block>
+            <lot>033</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Anas Goodies Catering</applicant>
+            <x>6005872.78586</x>
+            <y>2112625.25178</y>
+            <latitude>37.78119822186116</latitude>
+            <longitude>-122.42331554772082</longitude>
+            <location_2>POINT (-122.423315547721 37.7811982218612)</location_2>
+        </row>
+        <row _id="row-jkpq~bup3~e8tj" _uuid="00000000-0000-0000-7A58-7A5AF678ABEE" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-jkpq~bup3~e8tj">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00051</permit>
+            <location>1131 MISSION ST</location>
+            <locationdesc>10am-10:15am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, snacks, prepackaged items, beverages,</optionaltext>
+            <locationid>1336042</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>9101000</cnn>
+            <addr_date_create>2011-04-20T14:18:13</addr_date_create>
+            <addr_date_modified>2011-04-20T14:18:35</addr_date_modified>
+            <block>3727</block>
+            <lot>094</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Paradise Catering</applicant>
+            <x>6009243.66851</x>
+            <y>2111618.58524</y>
+            <latitude>37.778623821541444</latitude>
+            <longitude>-122.41158277263906</longitude>
+            <location_2>POINT (-122.411582772639 37.7786238215414)</location_2>
+        </row>
+        <row _id="row-8qqf~ysip_jnr2" _uuid="00000000-0000-0000-5EAF-77EB67ECE283" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-8qqf~ysip_jnr2">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00051</permit>
+            <location>555 09TH ST</location>
+            <locationdesc>10:35am-10:40am, 12:30pm-1:pm</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, snacks, prepackaged items, beverages,</optionaltext>
+            <locationid>1336023</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>459000</cnn>
+            <addr_date_create>2011-04-21T11:10:10</addr_date_create>
+            <addr_date_modified>2011-04-21T11:10:34</addr_date_modified>
+            <block>3781</block>
+            <lot>003</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Paradise Catering</applicant>
+            <x>6010322.73482</x>
+            <y>2108692.21714</y>
+            <latitude>37.770649163845981</latitude>
+            <longitude>-122.40764346321261</longitude>
+            <location_2>POINT (-122.407643463213 37.770649163846)</location_2>
+        </row>
+        <row _id="row-fve2-aj2r~sq2h" _uuid="00000000-0000-0000-44E1-EFBF889420E9" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-fve2-aj2r~sq2h">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00051</permit>
+            <location>1119 MISSION ST</location>
+            <locationdesc>10am-10:15am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, snacks, prepackaged items, beverages,</optionaltext>
+            <locationid>1336041</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>9101000</cnn>
+            <addr_date_create>2011-04-20T14:17:07</addr_date_create>
+            <addr_date_modified>2011-04-20T14:17:28</addr_date_modified>
+            <block>3727</block>
+            <lot>130</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Paradise Catering</applicant>
+            <x>6009320.40481</x>
+            <y>2111691.88579</y>
+            <latitude>37.778829391602429</latitude>
+            <longitude>-122.41132249080088</longitude>
+            <location_2>POINT (-122.411322490801 37.7788293916024)</location_2>
+        </row>
+        <row _id="row-kjc6-crii_fsfc" _uuid="00000000-0000-0000-B123-12D7BA3200DB" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-kjc6-crii_fsfc">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00051</permit>
+            <location>301 VAN NESS AVE</location>
+            <locationdesc>Set-up at 500 Franklin St. 10:15am-10:20am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, snacks, prepackaged items, beverages,</optionaltext>
+            <locationid>1336030</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5805000</cnn>
+            <addr_date_create>2011-04-20T14:25:38</addr_date_create>
+            <addr_date_modified>2011-04-20T14:25:59</addr_date_modified>
+            <block>0786A</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Paradise Catering</applicant>
+            <x>6006813.7965</x>
+            <y>2111531.59176</y>
+            <latitude>37.778248359572956</latitude>
+            <longitude>-122.41998247696355</longitude>
+            <location_2>POINT (-122.419982476964 37.778248359573)</location_2>
+        </row>
+        <row _id="row-qpjc_jx78_ta58" _uuid="00000000-0000-0000-667D-0A96689DEA85" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-qpjc_jx78_ta58">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00051</permit>
+            <location>1398 FOLSOM ST</location>
+            <locationdesc>10:50am-10:55am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, snacks, prepackaged items, beverages,</optionaltext>
+            <locationid>1336028</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5680000</cnn>
+            <addr_date_create>2011-04-20T15:24:52</addr_date_create>
+            <addr_date_modified>2011-04-20T15:25:13</addr_date_modified>
+            <block>3518</block>
+            <lot>015</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Paradise Catering</applicant>
+            <x>6008833.19977</x>
+            <y>2109529.73097</y>
+            <latitude>37.772865287580295</latitude>
+            <longitude>-122.4128550252701</longitude>
+            <location_2>POINT (-122.41285502527 37.7728652875803)</location_2>
+        </row>
+        <row _id="row-gkr9.gstz-nurh" _uuid="00000000-0000-0000-BA4D-27A58F3AB5ED" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-gkr9.gstz-nurh">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00051</permit>
+            <location>65 GRACE ST</location>
+            <locationdesc>Set-up at 77 Grace St. 10:10am-10:15am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, snacks, prepackaged items, beverages,</optionaltext>
+            <locationid>1336032</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>6354000</cnn>
+            <addr_date_create>2011-04-20T14:20:31</addr_date_create>
+            <addr_date_modified>2011-04-20T14:20:51</addr_date_modified>
+            <block>3509</block>
+            <lot>029</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Paradise Catering</applicant>
+            <x>6008388.99944</x>
+            <y>2110263.3088</y>
+            <latitude>37.774854575989131</latitude>
+            <longitude>-122.41444348796961</longitude>
+            <location_2>POINT (-122.41444348797 37.7748545759891)</location_2>
+        </row>
+        <row _id="row-2hkr_jzq5.9evz" _uuid="00000000-0000-0000-95E8-10E07ED350A8" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-2hkr_jzq5.9evz">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00051</permit>
+            <location>340 10TH ST</location>
+            <locationdesc>10:45am-10:50am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, snacks, prepackaged items, beverages,</optionaltext>
+            <locationid>1336024</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>488000</cnn>
+            <addr_date_create>2011-04-20T15:23:34</addr_date_create>
+            <addr_date_modified>2011-04-20T15:23:54</addr_date_modified>
+            <block>3520</block>
+            <lot>004</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Paradise Catering</applicant>
+            <x>6009040.64396</x>
+            <y>2109272.9828</y>
+            <latitude>37.772171958942153</latitude>
+            <longitude>-122.41211930033779</longitude>
+            <location_2>POINT (-122.412119300338 37.7721719589422)</location_2>
+        </row>
+        <row _id="row-ueyc.p82n_vzsm" _uuid="00000000-0000-0000-244C-C99AC470D09E" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-ueyc.p82n_vzsm">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00051</permit>
+            <location>1252 HOWARD ST</location>
+            <locationdesc>Set-up at 1250 Howard St. 10:40am-10:45am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, snacks, prepackaged items, beverages,</optionaltext>
+            <locationid>1336036</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>7051000</cnn>
+            <addr_date_create>2011-04-20T15:22:33</addr_date_create>
+            <addr_date_modified>2011-04-20T15:22:55</addr_date_modified>
+            <block>3728</block>
+            <lot>018</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Paradise Catering</applicant>
+            <x>6008962.80175</x>
+            <y>2110526.72444</y>
+            <latitude>37.775610071182697</latitude>
+            <longitude>-122.41247720229909</longitude>
+            <location_2>POINT (-122.412477202299 37.7756100711827)</location_2>
+        </row>
+        <row _id="row-nzee~weic-4t6h" _uuid="00000000-0000-0000-DFBE-5B36EA2F0FCE" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-nzee~weic-4t6h">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>19MFF-00080</permit>
+            <location>400 HOWARD ST</location>
+            <locationdesc>Truck located 100LF East of 1st Street</locationdesc>
+            <optionaltext>Bonito Poke Bowls &amp; Various Drinks</optionaltext>
+            <locationid>1337539</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>7032000</cnn>
+            <addr_date_create>2017-07-31T15:08:35</addr_date_create>
+            <addr_date_modified>2017-08-14T12:30:56</addr_date_modified>
+            <block>3720</block>
+            <lot>008</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Bonito Poke</applicant>
+            <x>6014048.2034</x>
+            <y>2115391.83668</y>
+            <latitude>37.789252634479375</latitude>
+            <longitude>-122.39522629617119</longitude>
+            <location_2>POINT (-122.395226296171 37.7892526344794)</location_2>
+        </row>
+        <row _id="row-tcsq-2eac.ffqt" _uuid="00000000-0000-0000-D176-C7CAD17311E1" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-tcsq-2eac.ffqt">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>19MFF-00018</permit>
+            <location>1550 04TH ST</location>
+            <locationdesc>On the east side of 4th Street, in the first metered space north of Gene Friend Way.
+            </locationdesc>
+            <optionaltext>Tacos, burritos, quesadillas, tortas, nachos (refried beans, cheese sauce, salsa fresca),
+                carnes (beef, chicken, marinated pork, fried pork), canned beans, rice, sodas, horchata drinks.
+            </optionaltext>
+            <locationid>1337920</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>19987000</cnn>
+            <addr_date_create>2019-07-16T10:47:37</addr_date_create>
+            <addr_date_modified>2019-07-16T11:05:23</addr_date_modified>
+            <block>8711</block>
+            <lot>007</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>La Jefa</applicant>
+            <x>6015094.47955</x>
+            <y>2108059.05044</y>
+            <latitude>37.769176583286871</latitude>
+            <longitude>-122.39109353390911</longitude>
+            <location_2>POINT (-122.391093533909 37.7691765832869)</location_2>
+        </row>
+        <row _id="row-jnte-739y~ng4c" _uuid="00000000-0000-0000-B657-D628DBD2AF0C" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-jnte-739y~ng4c">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>6PM</endtime>
+            <permit>19MFF-00090</permit>
+            <location>3055 23RD ST</location>
+            <locationdesc>10am to 6pm Mon thru Friday</locationdesc>
+            <optionaltext>Burritos, Giros, Tortas, Quesadillas, Tacos &amp; Various Beverages</optionaltext>
+            <locationid>1337914</locationid>
+            <start24>10:00</start24>
+            <end24>18:00</end24>
+            <cnn>1260000</cnn>
+            <addr_date_create>2011-05-27T15:38:38</addr_date_create>
+            <addr_date_modified>2011-05-27T15:40:23</addr_date_modified>
+            <block>3640</block>
+            <lot>039</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>El Gallo Jiro</applicant>
+            <x>6008603.01478</x>
+            <y>2102703.03437</y>
+            <latitude>37.754107828201967</latitude>
+            <longitude>-122.4131684456666</longitude>
+            <location_2>POINT (-122.413168445667 37.754107828202)</location_2>
+        </row>
+        <row _id="row-rz24_ww5x-zk9p" _uuid="00000000-0000-0000-A3DA-D19244C9CD5A" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-rz24_ww5x-zk9p">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00092</permit>
+            <location>75 HOWARD ST</location>
+            <locationdesc>Set-up at 201 Steuart St: 10:30am-3:00pm</locationdesc>
+            <optionaltext>Various types of meat, veggie, and seafood bowls.</optionaltext>
+            <locationid>1338489</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>12160001</cnn>
+            <addr_date_create>2011-10-25T08:20:48</addr_date_create>
+            <addr_date_modified>2011-10-25T08:20:59</addr_date_modified>
+            <block>3741</block>
+            <lot>031</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Wu Wei LLC dba MoBowl</applicant>
+            <x>6014987.2178</x>
+            <y>2116234.80532</y>
+            <latitude>37.791619408655599</latitude>
+            <longitude>-122.39203636644855</longitude>
+            <location_2>POINT (-122.392036366449 37.7916194086556)</location_2>
+        </row>
+        <row _id="row-bwif~69j3_k3nm" _uuid="00000000-0000-0000-02C8-D8C37FEFDCBC" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-bwif~69j3_k3nm">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>19MFF-00092</permit>
+            <location>500 HOWARD ST</location>
+            <locationdesc>10:30am-1:30pm</locationdesc>
+            <optionaltext>Various types of meat, veggie, and seafood bowls.</optionaltext>
+            <locationid>1338493</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>7033000</cnn>
+            <addr_date_create>2011-10-25T08:18:21</addr_date_create>
+            <addr_date_modified>2011-10-25T08:19:13</addr_date_modified>
+            <block>3721</block>
+            <lot>011</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Wu Wei LLC dba MoBowl</applicant>
+            <x>6013778.7388</x>
+            <y>2115134.04818</y>
+            <latitude>37.788529817710213</latitude>
+            <longitude>-122.3961405441853</longitude>
+            <location_2>POINT (-122.396140544185 37.7885298177102)</location_2>
+        </row>
+        <row _id="row-g95s.5q6r_pkjj" _uuid="00000000-0000-0000-E9BC-0131B194A755" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-g95s.5q6r_pkjj">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>4PM</endtime>
+            <permit>19MFF-00097</permit>
+            <location>250 04TH ST</location>
+            <locationdesc>In front of 250 4th Street entrance way</locationdesc>
+            <optionaltext>everything except for hot dogs</optionaltext>
+            <locationid>1338989</locationid>
+            <start24>10:00</start24>
+            <end24>16:00</end24>
+            <cnn>254000</cnn>
+            <addr_date_create>2011-03-07T09:36:01</addr_date_create>
+            <addr_date_modified>2011-03-07T09:40:22</addr_date_modified>
+            <block>3733</block>
+            <lot>008</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Off the Grid Services, LLC</applicant>
+            <x>6012068.51174</x>
+            <y>2112988.2785</y>
+            <latitude>37.782542731255568</latitude>
+            <longitude>-122.40190680362242</longitude>
+            <location_2>POINT (-122.401906803622 37.7825427312556)</location_2>
+        </row>
+        <row _id="row-fkt6~baw3~whrv" _uuid="00000000-0000-0000-24FB-FDD04BD35E3B" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-fkt6~baw3~whrv">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00100</permit>
+            <location>1 MONTGOMERY ST</location>
+            <locationdesc>Truck located on the West side of Montgomery St approximately 54 linear feet North of the
+                Montgomery St and Post St intersection.
+            </locationdesc>
+            <optionaltext>Tacos, burritos, quesadillas</optionaltext>
+            <locationid>1339634</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>9297000</cnn>
+            <addr_date_create>2017-05-16T15:33:15</addr_date_create>
+            <addr_date_modified>2017-10-03T15:20:05</addr_date_modified>
+            <block>0292</block>
+            <lot>002</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Plaza Garibaldy</applicant>
+            <x>6012069.59783</x>
+            <y>2115384.37093</y>
+            <latitude>37.789121900046254</latitude>
+            <longitude>-122.40207154934198</longitude>
+            <location_2>POINT (-122.402071549342 37.7891219000463)</location_2>
+        </row>
+        <row _id="row-82az~6cmt-t827" _uuid="00000000-0000-0000-9651-ADF9032492DA" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-82az~6cmt-t827">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>4PM</endtime>
+            <permit>19MFF-00019</permit>
+            <location>1450 MISSION ST</location>
+            <locationdesc>On the north side of Mission Street, occupying SFMTA parking meters #1418 and #1420,
+                immediately SW of the driveway dividing 1400 Mission Street and 1450 Mission Street.
+            </locationdesc>
+            <optionaltext>Pernil Asado, Ropa Vieja, Arroz con Pollo, Cuban Sandwich, Croquetas Fritas, Tostones,
+                Platanos Maduros, Yuca Frita
+            </optionaltext>
+            <locationid>1330588</locationid>
+            <start24>10:00</start24>
+            <end24>16:00</end24>
+            <cnn>9108000</cnn>
+            <addr_date_create>2019-06-17T16:09:19</addr_date_create>
+            <addr_date_modified>2019-10-25T15:40:08</addr_date_modified>
+            <block>3507</block>
+            <lot>040</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Lerso</applicant>
+            <x>6007775.33629</x>
+            <y>2110266.36342</y>
+            <latitude>37.77482847029318</latitude>
+            <longitude>-122.41656649954182</longitude>
+            <location_2>POINT (-122.416566499542 37.7748284702932)</location_2>
+        </row>
+        <row _id="row-fbrq~n78y.hx6p" _uuid="00000000-0000-0000-46CA-00F8D811AA4F" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-fbrq~n78y.hx6p">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00056</permit>
+            <location>Assessors Block 4645/Lot015</location>
+            <locationdesc>Setup at 894 Innes Ave. 11:45am-11:50am</locationdesc>
+            <optionaltext>Cold Truck: Hamburger, cheeseburgers, hot dogs, hot sandwiches, cold sandwiches, egg muffins,
+                cup of noodles, corn dogs, canned soup, coffee, hot cocoa, hot tea, gatorade, juice, milk, soda, water,
+                fruits, fruit salad, rice pudding, yogurt, candy bars, chips, cookies, donuts, granola bars, muffins
+            </optionaltext>
+            <locationid>1336759</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>7254000</cnn>
+            <addr_date_create>2011-06-10T09:37:16</addr_date_create>
+            <addr_date_modified>2011-06-10T09:37:36</addr_date_modified>
+            <block>4645</block>
+            <lot>015</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Park's Catering</applicant>
+            <x>6019359.973</x>
+            <y>2094482.884</y>
+            <latitude>37.732134951922227</latitude>
+            <longitude>-122.37539807856734</longitude>
+            <location_2>POINT (-122.375398078567 37.7321349519222)</location_2>
+        </row>
+        <row _id="row-f2ti_yx57-62j7" _uuid="00000000-0000-0000-851B-641A47C6A8FF" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-f2ti_yx57-62j7">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>12PM</endtime>
+            <permit>19MFF-00055</permit>
+            <location>3305 03RD ST</location>
+            <locationdesc>Set-up at 696 Amador St: 7:00am-8:00am, 10:20am-10:30am, 11:40am-11:50am</locationdesc>
+            <optionaltext>Cold Truck: Soft drinks, cup cakes, potato chips, cookies, gum, sandwiches (hot &amp; cold),
+                peanuts, muffins, coff (hot &amp; cold), water, juice, yoplait, milk, orange juice, sunflower seeds, can
+                foods, burritos, buscuits, chimichangas, rice krispies
+            </optionaltext>
+            <locationid>1336731</locationid>
+            <start24>10:00</start24>
+            <end24>12:00</end24>
+            <cnn>15086000</cnn>
+            <addr_date_create>2012-04-10T09:51:35</addr_date_create>
+            <addr_date_modified>2012-04-10T09:55:52</addr_date_modified>
+            <block>4502A</block>
+            <lot>002</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Quan Catering</applicant>
+            <x>6016067.65644</x>
+            <y>2100153.34551</y>
+            <latitude>37.747523152855791</latitude>
+            <longitude>-122.38717582851899</longitude>
+            <location_2>POINT (-122.387175828519 37.7475231528558)</location_2>
+        </row>
+        <row _id="row-sv9f-yg6d-ajcr" _uuid="00000000-0000-0000-F7A9-EFDFF6285D8A" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-sv9f-yg6d-ajcr">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00056</permit>
+            <location>300 NEWHALL ST</location>
+            <locationdesc>10:45am-11:00am</locationdesc>
+            <optionaltext>Cold Truck: Hamburger, cheeseburgers, hot dogs, hot sandwiches, cold sandwiches, egg muffins,
+                cup of noodles, corn dogs, canned soup, coffee, hot cocoa, hot tea, gatorade, juice, milk, soda, water,
+                fruits, fruit salad, rice pudding, yogurt, candy bars, chips, cookies, donuts, granola bars, muffins
+            </optionaltext>
+            <locationid>1336767</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>9563000</cnn>
+            <addr_date_create>2011-06-07T16:37:34</addr_date_create>
+            <addr_date_modified>2011-06-07T16:37:52</addr_date_modified>
+            <block>5203</block>
+            <lot>041</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Park's Catering</applicant>
+            <x>6016548.19894</x>
+            <y>2098372.44665</y>
+            <latitude>37.742659769255575</latitude>
+            <longitude>-122.38539004353302</longitude>
+            <location_2>POINT (-122.385390043533 37.7426597692556)</location_2>
+        </row>
+        <row _id="row-fk3a~ym6i_u2aj" _uuid="00000000-0000-0000-3CEA-6421886BCB2C" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-fk3a~ym6i_u2aj">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00057</permit>
+            <location>101 EXECUTIVE PARK BLVD</location>
+            <locationdesc>10:00am-10:05am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged Sandwiches, Various Beverages, Salads, Snacks</optionaltext>
+            <locationid>1336776</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5372202</cnn>
+            <addr_date_create>2011-08-29T16:52:48</addr_date_create>
+            <addr_date_modified>2011-08-29T16:53:06</addr_date_modified>
+            <block>4991</block>
+            <lot>241</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Golden Catering</applicant>
+            <x>6013626.81853</x>
+            <y>2086973.71432</y>
+            <latitude>37.711199100308754</latitude>
+            <longitude>-122.39469333939546</longitude>
+            <location_2>POINT (-122.394693339395 37.7111991003088)</location_2>
+        </row>
+        <row _id="row-ux4z-7xsz.q3eg" _uuid="00000000-0000-0000-4819-57900EA8D423" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-ux4z-7xsz.q3eg">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00054</permit>
+            <location>1310 MINNESOTA ST</location>
+            <locationdesc>10:30am-10:45am, 1:00pm-1:30pm</locationdesc>
+            <optionaltext>Cold Truck: packaged sandwiches, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>1336686</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>9059000</cnn>
+            <addr_date_create>2011-06-16T13:28:15</addr_date_create>
+            <addr_date_modified>2011-06-16T13:28:44</addr_date_modified>
+            <block>4228</block>
+            <lot>129</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Mike's Catering</applicant>
+            <x>6015323.07395</x>
+            <y>2102466.83234</y>
+            <latitude>37.753834240160835</latitude>
+            <longitude>-122.38991214778083</longitude>
+            <location_2>POINT (-122.389912147781 37.7538342401608)</location_2>
+        </row>
+        <row _id="row-s4hu-7iem~39pd" _uuid="00000000-0000-0000-F565-E916DC691E1C" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-s4hu-7iem~39pd">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00056</permit>
+            <location>3450 03RD ST</location>
+            <locationdesc>10:25am-10:30am</locationdesc>
+            <optionaltext>Cold Truck: Hamburger, cheeseburgers, hot dogs, hot sandwiches, cold sandwiches, egg muffins,
+                cup of noodles, corn dogs, canned soup, coffee, hot cocoa, hot tea, gatorade, juice, milk, soda, water,
+                fruits, fruit salad, rice pudding, yogurt, candy bars, chips, cookies, donuts, granola bars, muffins
+            </optionaltext>
+            <locationid>1336747</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>198201</cnn>
+            <addr_date_create>2011-06-07T16:31:45</addr_date_create>
+            <addr_date_modified>2011-06-07T16:32:12</addr_date_modified>
+            <block>5211</block>
+            <lot>029</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Park's Catering</applicant>
+            <x>6015841.40345</x>
+            <y>2099487.67011</y>
+            <latitude>37.745682814255154</latitude>
+            <longitude>-122.38791176143263</longitude>
+            <location_2>POINT (-122.387911761433 37.7456828142552)</location_2>
+        </row>
+        <row _id="row-3gzk.aj44~d276" _uuid="00000000-0000-0000-4197-ED01ACAF6EF3" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-3gzk.aj44~d276">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>12PM</endtime>
+            <permit>19MFF-00055</permit>
+            <location>222 02ND ST</location>
+            <locationdesc>10:05am-10:10am, 11:30am-11:40am</locationdesc>
+            <optionaltext>Cold Truck: Soft drinks, cup cakes, potato chips, cookies, gum, sandwiches (hot &amp; cold),
+                peanuts, muffins, coff (hot &amp; cold), water, juice, yoplait, milk, orange juice, sunflower seeds, can
+                foods, burritos, buscuits, chimichangas, rice krispies
+            </optionaltext>
+            <locationid>1336730</locationid>
+            <start24>10:00</start24>
+            <end24>12:00</end24>
+            <cnn>135000</cnn>
+            <addr_date_create>2012-04-10T10:00:05</addr_date_create>
+            <addr_date_modified>2012-04-10T10:00:23</addr_date_modified>
+            <block>3735</block>
+            <lot>063</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Quan Catering</applicant>
+            <x>6013205.99435</x>
+            <y>2114380.7873</y>
+            <latitude>37.786429654603488</latitude>
+            <longitude>-122.39806930014173</longitude>
+            <location_2>POINT (-122.398069300142 37.7864296546035)</location_2>
+        </row>
+        <row _id="row-dpc8.53ua.twxm" _uuid="00000000-0000-0000-874C-C5B8153C0577" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-dpc8.53ua.twxm">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00056</permit>
+            <location>525 PHELPS ST</location>
+            <locationdesc>10:35am-10:40am</locationdesc>
+            <optionaltext>Cold Truck: Hamburger, cheeseburgers, hot dogs, hot sandwiches, cold sandwiches, egg muffins,
+                cup of noodles, corn dogs, canned soup, coffee, hot cocoa, hot tea, gatorade, juice, milk, soda, water,
+                fruits, fruit salad, rice pudding, yogurt, candy bars, chips, cookies, donuts, granola bars, muffins
+            </optionaltext>
+            <locationid>1336745</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>10397000</cnn>
+            <addr_date_create>2011-06-07T16:32:42</addr_date_create>
+            <addr_date_modified>2011-06-07T16:33:04</addr_date_modified>
+            <block>5242</block>
+            <lot>015</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Park's Catering</applicant>
+            <x>6015469.99789</x>
+            <y>2098212.94053</y>
+            <latitude>37.742162087827104</latitude>
+            <longitude>-122.38910704870085</longitude>
+            <location_2>POINT (-122.389107048701 37.7421620878271)</location_2>
+        </row>
+        <row _id="row-bfr7.nbqu_34ij" _uuid="00000000-0000-0000-891E-E1C54D2CDF22" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-bfr7.nbqu_34ij">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00056</permit>
+            <location>2525 MARIN ST</location>
+            <locationdesc>10:15am-10:20am</locationdesc>
+            <optionaltext>Cold Truck: Hamburger, cheeseburgers, hot dogs, hot sandwiches, cold sandwiches, egg muffins,
+                cup of noodles, corn dogs, canned soup, coffee, hot cocoa, hot tea, gatorade, juice, milk, soda, water,
+                fruits, fruit salad, rice pudding, yogurt, candy bars, chips, cookies, donuts, granola bars, muffins
+            </optionaltext>
+            <locationid>1336761</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>8700000</cnn>
+            <addr_date_create>2011-06-07T16:30:45</addr_date_create>
+            <addr_date_modified>2011-06-07T16:31:06</addr_date_modified>
+            <block>4343</block>
+            <lot>001D</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Park's Catering</applicant>
+            <x>6011682.16711</x>
+            <y>2100464.95536</y>
+            <latitude>37.748134933544691</latitude>
+            <longitude>-122.40236257004895</longitude>
+            <location_2>POINT (-122.402362570049 37.7481349335447)</location_2>
+        </row>
+        <row _id="row-zxwr-etsh_3g3f" _uuid="00000000-0000-0000-F361-FCEFA4069D23" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-zxwr-etsh_3g3f">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00056</permit>
+            <location>Assessors Block 4644/Lot008</location>
+            <locationdesc>Setup at 780 Innes Ave. 6:20am-6:30am, 10:10am-10:15am, 11:50am-12:00pm (all M-F)
+            </locationdesc>
+            <optionaltext>Cold Truck: Hamburger, cheeseburgers, hot dogs, hot sandwiches, cold sandwiches, egg muffins,
+                cup of noodles, corn dogs, canned soup, coffee, hot cocoa, hot tea, gatorade, juice, milk, soda, water,
+                fruits, fruit salad, rice pudding, yogurt, candy bars, chips, cookies, donuts, granola bars, muffins
+            </optionaltext>
+            <locationid>1336758</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>7253000</cnn>
+            <addr_date_create>2011-06-07T15:53:06</addr_date_create>
+            <addr_date_modified>2011-06-07T15:53:52</addr_date_modified>
+            <block>4644</block>
+            <lot>008</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Park's Catering</applicant>
+            <x>6019956.89</x>
+            <y>2094023.408</y>
+            <latitude>37.730906150359694</latitude>
+            <longitude>-122.37330257748522</longitude>
+            <location_2>POINT (-122.373302577485 37.7309061503597)</location_2>
+        </row>
+        <row _id="row-dybm~3gga~frfa" _uuid="00000000-0000-0000-B5E1-23899F838AD3" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-dybm~3gga~frfa">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00057</permit>
+            <location>301 EXECUTIVE PARK BLVD</location>
+            <locationdesc>10:10am-10:25am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged Sandwiches, Various Beverages, Salads, Snacks</optionaltext>
+            <locationid>1336777</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5374000</cnn>
+            <addr_date_create>2011-08-29T16:56:30</addr_date_create>
+            <addr_date_modified>2011-08-29T16:56:43</addr_date_modified>
+            <block>4991</block>
+            <lot>240</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Golden Catering</applicant>
+            <x>6014761.54077</x>
+            <y>2086930.26079</y>
+            <latitude>37.711142808617247</latitude>
+            <longitude>-122.39076839082233</longitude>
+            <location_2>POINT (-122.390768390822 37.7111428086172)</location_2>
+        </row>
+        <row _id="row-g9am_jm2u_cnms" _uuid="00000000-0000-0000-CB38-2F7658D0210E" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-g9am_jm2u_cnms">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00056</permit>
+            <location>1570 BURKE AVE</location>
+            <locationdesc>7:15am-7:20am, 10:00am-10:05am, 12:15pm-12:20pm (all M-F)</locationdesc>
+            <optionaltext>Cold Truck: Hamburger, cheeseburgers, hot dogs, hot sandwiches, cold sandwiches, egg muffins,
+                cup of noodles, corn dogs, canned soup, coffee, hot cocoa, hot tea, gatorade, juice, milk, soda, water,
+                fruits, fruit salad, rice pudding, yogurt, candy bars, chips, cookies, donuts, granola bars, muffins
+            </optionaltext>
+            <locationid>1336750</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>3376000</cnn>
+            <addr_date_create>2011-06-07T16:06:49</addr_date_create>
+            <addr_date_modified>2011-06-07T16:07:23</addr_date_modified>
+            <block>5203</block>
+            <lot>066</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Park's Catering</applicant>
+            <x>6016270.58146</x>
+            <y>2099130.191</y>
+            <latitude>37.744725016832071</latitude>
+            <longitude>-122.38640279385733</longitude>
+            <location_2>POINT (-122.386402793857 37.7447250168321)</location_2>
+        </row>
+        <row _id="row-84wt-xm4a_qcce" _uuid="00000000-0000-0000-14FF-D7B75FBF76B4" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-84wt-xm4a_qcce">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00056</permit>
+            <location>Assessors Block 4755/Lot049</location>
+            <locationdesc>Setup at 800 Fitch St (NWC of Arelius &amp; Quesada). 6:10am-6:20am, 10:05am-10:10am
+            </locationdesc>
+            <optionaltext>Cold Truck: Hamburger, cheeseburgers, hot dogs, hot sandwiches, cold sandwiches, egg muffins,
+                cup of noodles, corn dogs, canned soup, coffee, hot cocoa, hot tea, gatorade, juice, milk, soda, water,
+                fruits, fruit salad, rice pudding, yogurt, candy bars, chips, cookies, donuts, granola bars, muffins
+            </optionaltext>
+            <locationid>1336757</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5582000</cnn>
+            <addr_date_create>2011-06-10T09:26:43</addr_date_create>
+            <addr_date_modified>2011-06-10T09:30:35</addr_date_modified>
+            <block>4755</block>
+            <lot>049</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Park's Catering</applicant>
+            <x>6018439.93443</x>
+            <y>2092406.50106</y>
+            <latitude>37.726382932182176</latitude>
+            <longitude>-122.37843478266778</longitude>
+            <location_2>POINT (-122.378434782668 37.7263829321822)</location_2>
+        </row>
+        <row _id="row-rty3-8rn2~cgq2" _uuid="00000000-0000-0000-B38A-928844BA0379" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-rty3-8rn2~cgq2">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00057</permit>
+            <location>2401 BAY SHORE BLVD</location>
+            <locationdesc>10:45am-11:00am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged Sandwiches, Various Beverages, Salads, Snacks</optionaltext>
+            <locationid>1336774</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>2825101</cnn>
+            <addr_date_create>2011-08-29T16:44:44</addr_date_create>
+            <addr_date_modified>2011-08-29T16:44:56</addr_date_modified>
+            <block>5087</block>
+            <lot>003A</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Golden Catering</applicant>
+            <x>6011058.54374</x>
+            <y>2087018.26704</y>
+            <latitude>37.711178307043554</latitude>
+            <longitude>-122.40357311518119</longitude>
+            <location_2>POINT (-122.403573115181 37.7111783070436)</location_2>
+        </row>
+        <row _id="row-9wuh-t5um-j4ei" _uuid="00000000-0000-0000-3A67-B1E17F92E121" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-9wuh-t5um-j4ei">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00057</permit>
+            <location>835 JAMESTOWN AVE</location>
+            <locationdesc>10:30am-10:40am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged Sandwiches, Various Beverages, Salads, Snacks</optionaltext>
+            <locationid>1336778</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>7428000</cnn>
+            <addr_date_create>2011-08-29T16:57:08</addr_date_create>
+            <addr_date_modified>2011-08-29T16:57:22</addr_date_modified>
+            <block>4991</block>
+            <lot>277</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Golden Catering</applicant>
+            <x>6014862.63879</x>
+            <y>2088936.11373</y>
+            <latitude>37.716656100299275</latitude>
+            <longitude>-122.39055903993396</longitude>
+            <location_2>POINT (-122.390559039934 37.7166561002993)</location_2>
+        </row>
+        <row _id="row-asss-42sr_kjhg" _uuid="00000000-0000-0000-B6C5-2B7829C0D487" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-asss-42sr_kjhg">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00079</permit>
+            <location>1335 YOSEMITE AVE</location>
+            <locationdesc>1335 YOSEMITE AVE - 7:45am-7:50am, 10:40am-10:45am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, snacks, fruit, various beverages</optionaltext>
+            <locationid>1337441</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>13779000</cnn>
+            <addr_date_create>2011-05-12T16:23:05</addr_date_create>
+            <addr_date_modified>2011-05-12T16:23:25</addr_date_modified>
+            <block>4846</block>
+            <lot>013</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Liang Bai Ping</applicant>
+            <x>6015993.74262</x>
+            <y>2091565.17941</y>
+            <latitude>37.723937688236482</latitude>
+            <longitude>-122.38683258523446</longitude>
+            <location_2>POINT (-122.386832585234 37.7239376882365)</location_2>
+        </row>
+        <row _id="row-kh9c~32wr_bh3i" _uuid="00000000-0000-0000-12FA-444B7D524FF3" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-kh9c~32wr_bh3i">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00068</permit>
+            <location>536 MISSION ST</location>
+            <locationdesc>Truck located in meter # 552</locationdesc>
+            <optionaltext>Baos, bowls &amp; drinks</optionaltext>
+            <locationid>1337268</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>9089000</cnn>
+            <addr_date_create>2018-02-26T13:53:46</addr_date_create>
+            <addr_date_modified>2018-02-26T13:54:01</addr_date_modified>
+            <block>3708</block>
+            <lot>098</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Chairman SF, LLC</applicant>
+            <x>6013121.83996</x>
+            <y>2115378.43509</y>
+            <latitude>37.789164275278559</latitude>
+            <longitude>-122.39843048321912</longitude>
+            <location_2>POINT (-122.398430483219 37.7891642752786)</location_2>
+        </row>
+        <row _id="row-564h~n85j_3ttz" _uuid="00000000-0000-0000-BCCE-D99695C0B5FC" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-564h~n85j_3ttz">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00079</permit>
+            <location>1500 WALLACE AVE</location>
+            <locationdesc>10:10am-10:15am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, snacks, fruit, various beverages</optionaltext>
+            <locationid>1337440</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>13356000</cnn>
+            <addr_date_create>2011-05-13T09:15:15</addr_date_create>
+            <addr_date_modified>2011-05-13T09:15:34</addr_date_modified>
+            <block>4829</block>
+            <lot>002</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Liang Bai Ping</applicant>
+            <x>6015312.43811</x>
+            <y>2092509.06445</y>
+            <latitude>37.726491663736091</latitude>
+            <longitude>-122.38925364497499</longitude>
+            <location_2>POINT (-122.389253644975 37.7264916637361)</location_2>
+        </row>
+        <row _id="row-w4ef_kyc7-bnge" _uuid="00000000-0000-0000-5020-6312CE629DD2" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-w4ef_kyc7-bnge">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00079</permit>
+            <location>2115 JENNINGS ST</location>
+            <locationdesc>Set-up at 2135 Jennings St: 10:45am-10:50am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, snacks, fruit, various beverages</optionaltext>
+            <locationid>1337455</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>7479000</cnn>
+            <addr_date_create>2011-05-13T09:56:47</addr_date_create>
+            <addr_date_modified>2011-05-13T09:57:06</addr_date_modified>
+            <block>4828</block>
+            <lot>021</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Liang Bai Ping</applicant>
+            <x>6015472.89368</x>
+            <y>2092657.77925</y>
+            <latitude>37.726908899154758</latitude>
+            <longitude>-122.38870932876783</longitude>
+            <location_2>POINT (-122.388709328768 37.7269088991548)</location_2>
+        </row>
+        <row _id="row-kczt-3vw8~dxri" _uuid="00000000-0000-0000-BC45-91D084939A66" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-kczt-3vw8~dxri">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00079</permit>
+            <location>1450 WALLACE AVE</location>
+            <locationdesc>10:15am-10:20am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, snacks, fruit, various beverages</optionaltext>
+            <locationid>1337439</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>13355000</cnn>
+            <addr_date_create>2011-05-13T09:16:14</addr_date_create>
+            <addr_date_modified>2011-05-13T09:16:32</addr_date_modified>
+            <block>4828</block>
+            <lot>024</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Liang Bai Ping</applicant>
+            <x>6015589.70159</x>
+            <y>2092302.36867</y>
+            <latitude>37.72593948526761</latitude>
+            <longitude>-122.38828072861115</longitude>
+            <location_2>POINT (-122.388280728611 37.7259394852676)</location_2>
+        </row>
+        <row _id="row-57my~j3t8~3uxt" _uuid="00000000-0000-0000-3328-76D7AB5C53C1" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-57my~j3t8~3uxt">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00068</permit>
+            <location>34 ELLIS ST</location>
+            <locationdesc>In front of 34 Ellis Street entrance way</locationdesc>
+            <optionaltext>Baos, bowls &amp; drinks</optionaltext>
+            <locationid>1337267</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>5169000</cnn>
+            <addr_date_create>2011-03-07T10:40:49</addr_date_create>
+            <addr_date_modified>2012-01-27T15:21:56</addr_date_modified>
+            <block>0307</block>
+            <lot>008</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Chairman SF, LLC</applicant>
+            <x>6010754.54372</x>
+            <y>2114169.10049</y>
+            <latitude>37.785711570310717</latitude>
+            <longitude>-122.40653582218187</longitude>
+            <location_2>POINT (-122.406535822182 37.7857115703107)</location_2>
+        </row>
+        <row _id="row-2v87~nv64-aahj" _uuid="00000000-0000-0000-2E73-7533220728FD" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-2v87~nv64-aahj">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>12PM</endtime>
+            <permit>19MFF-00130</permit>
+            <location>501 02ND ST</location>
+            <locationdesc>10:30am-12:00pm</locationdesc>
+            <optionaltext>Mexican Food, Yucatan Food, Street Food</optionaltext>
+            <locationid>1377259</locationid>
+            <start24>10:00</start24>
+            <end24>12:00</end24>
+            <cnn>142000</cnn>
+            <addr_date_create>2011-07-28T14:29:06</addr_date_create>
+            <addr_date_modified>2011-07-28T14:29:24</addr_date_modified>
+            <block>3774</block>
+            <lot>067</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Cochinita</applicant>
+            <x>6014484.53785</x>
+            <y>2113145.45519</y>
+            <latitude>37.783108842973789</latitude>
+            <longitude>-122.39355933745992</longitude>
+            <location_2>POINT (-122.39355933746 37.7831088429738)</location_2>
+        </row>
+        <row _id="row-9u6s-p2ve~7cre" _uuid="00000000-0000-0000-6AB3-2B35CC86EAB3" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-9u6s-p2ve~7cre">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00130</permit>
+            <location>290 TOWNSEND ST</location>
+            <locationdesc>10:00am-3:00pm</locationdesc>
+            <optionaltext>Mexican Food, Yucatan Food, Street Food</optionaltext>
+            <locationid>1377257</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>12662000</cnn>
+            <addr_date_create>2011-07-28T14:28:19</addr_date_create>
+            <addr_date_modified>2011-07-28T14:28:35</addr_date_modified>
+            <block>3787</block>
+            <lot>028</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Cochinita</applicant>
+            <x>6014079.55674</x>
+            <y>2111038.10448</y>
+            <latitude>37.77730002627586</latitude>
+            <longitude>-122.39481278479886</longitude>
+            <location_2>POINT (-122.394812784799 37.7773000262759)</location_2>
+        </row>
+        <row _id="row-a3qq_ivme-iwhm" _uuid="00000000-0000-0000-3DA3-5EE7A9022FAA" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-a3qq_ivme-iwhm">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00079</permit>
+            <location>931 PALOU AVE</location>
+            <locationdesc>10:30am-10:40am &amp; Set-up at 991 Palou: 9:00am-9:05am</locationdesc>
+            <optionaltext>Cold Truck: Pre-packaged sandwiches, snacks, fruit, various beverages</optionaltext>
+            <locationid>1337425</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>10215000</cnn>
+            <addr_date_create>2011-05-13T09:19:15</addr_date_create>
+            <addr_date_modified>2011-05-13T09:19:38</addr_date_modified>
+            <block>4755</block>
+            <lot>042</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Liang Bai Ping</applicant>
+            <x>6018382.89161</x>
+            <y>2092615.70279</y>
+            <latitude>37.726954215398166</latitude>
+            <longitude>-122.37864649900601</longitude>
+            <location_2>POINT (-122.378646499006 37.7269542153982)</location_2>
+        </row>
+        <row _id="row-6jpm~djh4_7ggc" _uuid="00000000-0000-0000-1893-83CB51D0AFAC" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-6jpm~djh4_7ggc">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00130</permit>
+            <location>617 BRYANT ST</location>
+            <locationdesc>8:30am-9:00am, 10:50am-11:00am</locationdesc>
+            <optionaltext>Mexican Food, Yucatan Food, Street Food</optionaltext>
+            <locationid>1377261</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>3285000</cnn>
+            <addr_date_create>2011-07-28T15:45:54</addr_date_create>
+            <addr_date_modified>2011-07-28T15:46:19</addr_date_modified>
+            <block>3777</block>
+            <lot>055</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Cochinita</applicant>
+            <x>6013050.80889</x>
+            <y>2111752.23549</y>
+            <latitude>37.779203613561471</latitude>
+            <longitude>-122.39842170074918</longitude>
+            <location_2>POINT (-122.398421700749 37.7792036135615)</location_2>
+        </row>
+        <row _id="row-nuy3.peee-37vm" _uuid="00000000-0000-0000-C576-8AF3E1EA53DD" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-nuy3.peee-37vm">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00103</permit>
+            <location>409 ILLINOIS ST</location>
+            <locationdesc>10:25am-10:35am</locationdesc>
+            <optionaltext>Cold Truck: Hot &amp; Cold Sandwiches, Bagels, Burritos, Soups, Hot Dogs, Tacos, Pork Buns,
+                BBQ Meat, Fruit, Various Beverages, Pasties, Pre-Packaged Snacks, Candy, Salads, Muffins, Scones,
+                Brownies, Croissants, Energy Bars, Noodle Bowls
+            </optionaltext>
+            <locationid>1340319</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>7165000</cnn>
+            <addr_date_create>2011-08-31T11:55:53</addr_date_create>
+            <addr_date_modified>2011-08-31T11:56:08</addr_date_modified>
+            <block>3940</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Two G's Catering</applicant>
+            <x>6015948.27353</x>
+            <y>2107171.45436</y>
+            <latitude>37.766786779295607</latitude>
+            <longitude>-122.3880783319894</longitude>
+            <location_2>POINT (-122.388078331989 37.7667867792956)</location_2>
+        </row>
+        <row _id="row-6xi6-gx7e.mz39" _uuid="00000000-0000-0000-C0C9-115F3FB59440" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-6xi6-gx7e.mz39">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00103</permit>
+            <location>Assessors Block 8720/Lot008</location>
+            <locationdesc>Set-up at 450 Terry Francois Blvd: 10:17am-10:30am</locationdesc>
+            <optionaltext>Cold Truck: Hot &amp; Cold Sandwiches, Bagels, Burritos, Soups, Hot Dogs, Tacos, Pork Buns,
+                BBQ Meat, Fruit, Various Beverages, Pasties, Pre-Packaged Snacks, Candy, Salads, Muffins, Scones,
+                Brownies, Croissants, Energy Bars, Noodle Bowls
+            </optionaltext>
+            <locationid>1340304</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>12532003</cnn>
+            <addr_date_create>2011-08-31T11:55:09</addr_date_create>
+            <addr_date_modified>2011-08-31T11:55:28</addr_date_modified>
+            <block>8720</block>
+            <lot>008</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Two G's Catering</applicant>
+            <x>6016311.862</x>
+            <y>2108756.11</y>
+            <latitude>37.771158036961452</latitude>
+            <longitude>-122.38693125756184</longitude>
+            <location_2>POINT (-122.386931257562 37.7711580369615)</location_2>
+        </row>
+        <row _id="row-a8u3_b8z2~w5zc" _uuid="00000000-0000-0000-10A9-D484230CBA24" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-a8u3_b8z2~w5zc">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00103</permit>
+            <location>555 MISSION ROCK ST</location>
+            <locationdesc>10:00am-10:15am</locationdesc>
+            <optionaltext>Cold Truck: Hot &amp; Cold Sandwiches, Bagels, Burritos, Soups, Hot Dogs, Tacos, Pork Buns,
+                BBQ Meat, Fruit, Various Beverages, Pasties, Pre-Packaged Snacks, Candy, Salads, Muffins, Scones,
+                Brownies, Croissants, Energy Bars, Noodle Bowls
+            </optionaltext>
+            <locationid>1340309</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>15028000</cnn>
+            <addr_date_create>2011-08-31T11:52:20</addr_date_create>
+            <addr_date_modified>2011-08-31T11:52:37</addr_date_modified>
+            <block>8711</block>
+            <lot>028</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Two G's Catering</applicant>
+            <x>6015258.31755</x>
+            <y>2109383.13863</y>
+            <latitude>37.772821328058768</latitude>
+            <longitude>-122.39061936068067</longitude>
+            <location_2>POINT (-122.390619360681 37.7728213280588)</location_2>
+        </row>
+        <row _id="row-e6pw-fn4d~i97i" _uuid="00000000-0000-0000-3B09-0DAE3B839F2F" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-e6pw-fn4d~i97i">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>19MFF-00015</permit>
+            <location>90 BROADWAY</location>
+            <locationdesc>5 LF south from the SE corner of Front and Vallejo Streets</locationdesc>
+            <optionaltext>everything except for hot dogs</optionaltext>
+            <locationid>1313015</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>3143000</cnn>
+            <addr_date_create>2011-03-23T11:17:50</addr_date_create>
+            <addr_date_modified>2011-03-23T11:19:07</addr_date_modified>
+            <block>0140</block>
+            <lot>007</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Off the Grid Services, LLC</applicant>
+            <x>6012836.56068</x>
+            <y>2118897.74457</y>
+            <latitude>37.798811568758893</latitude>
+            <longitude>-122.39966472178901</longitude>
+            <location_2>POINT (-122.399664721789 37.7988115687589)</location_2>
+        </row>
+        <row _id="row-8hmq.cfft-9wjv" _uuid="00000000-0000-0000-4CCE-5CB308C90E44" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-8hmq.cfft-9wjv">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0045</permit>
+            <location>400 HOWARD ST</location>
+            <locationdesc>Set-up at 15 Natoma St: 6:45am-7am, 10:10am-10:15am, 12:10pm-12:15pm</locationdesc>
+            <optionaltext>Cold Truck: Soda,Chips,Candy, Cold/Hot Sandwiches, Donuts. (Pitco Wholesale)</optionaltext>
+            <locationid>1181506</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>9506000</cnn>
+            <addr_date_create>2011-04-13T13:01:09</addr_date_create>
+            <addr_date_modified>2011-04-13T13:01:38</addr_date_modified>
+            <block>3720</block>
+            <lot>008</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>John's Catering #5</applicant>
+            <x>6014048.2034</x>
+            <y>2115391.83668</y>
+            <latitude>37.789252634479375</latitude>
+            <longitude>-122.39522629617119</longitude>
+            <location_2>POINT (-122.395226296171 37.7892526344794)</location_2>
+        </row>
+        <row _id="row-d4sb.nb3b_nnvq" _uuid="00000000-0000-0000-AE8B-E8319FE3ABE4" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-d4sb.nb3b_nnvq">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>2930 HAWES ST</location>
+            <locationdesc>Set-up at 900 Jamestown Ave: 10:30am-11:00am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934624</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>6805000</cnn>
+            <addr_date_create>2011-08-31T11:04:04</addr_date_create>
+            <addr_date_modified>2011-08-31T11:04:25</addr_date_modified>
+            <block>4971</block>
+            <lot>022</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6014645.04098</x>
+            <y>2089396.62064</y>
+            <latitude>37.717908487952748</latitude>
+            <longitude>-122.39134334682261</longitude>
+            <location_2>POINT (-122.391343346823 37.7179084879527)</location_2>
+        </row>
+        <row _id="row-m9qt~ajyq~umkr" _uuid="00000000-0000-0000-5C53-3FAA16C3CF49" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-m9qt~ajyq~umkr">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>18MFF-0006</permit>
+            <location>1495 WALLACE AVE</location>
+            <locationdesc>Set-up at 2275 Jennings St: 10:30am-2:00pm (M-Sa), 8:00am-3:00pm (Sa)</locationdesc>
+            <optionaltext>Mexican food: tacos, burritos, tortas, various meat and chicken and fish plate, chile relleno
+                plate, fish plate, bread, flan, rice pudding, bread, fruit juice, vegetable juice, coffee, tea
+            </optionaltext>
+            <locationid>1090091</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>7480000</cnn>
+            <addr_date_create>2011-07-25T09:28:52</addr_date_create>
+            <addr_date_modified>2011-07-25T09:29:32</addr_date_modified>
+            <block>4831</block>
+            <lot>003</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Tacos El Primo</applicant>
+            <x>6015340.94132</x>
+            <y>2092437.92388</y>
+            <latitude>37.72629790600547</latitude>
+            <longitude>-122.38915014452709</longitude>
+            <location_2>POINT (-122.389150144527 37.7262979060055)</location_2>
+        </row>
+        <row _id="row-xiye~t7va-w2kz" _uuid="00000000-0000-0000-45F1-3E399090AC1A" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-xiye~t7va-w2kz">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>500 16TH ST</location>
+            <locationdesc>10:10am-10:25am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934593</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>697000</cnn>
+            <addr_date_create>2011-07-01T10:52:24</addr_date_create>
+            <addr_date_modified>2011-07-01T10:52:39</addr_date_modified>
+            <block>3810</block>
+            <lot>007</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6015638.29704</x>
+            <y>2107239.05184</y>
+            <latitude>37.766955208559729</latitude>
+            <longitude>-122.38915521890827</longitude>
+            <location_2>POINT (-122.389155218908 37.7669552085597)</location_2>
+        </row>
+        <row _id="row-gc33_v44u-8c2u" _uuid="00000000-0000-0000-7A16-BF7BFB1F3472" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-gc33_v44u-8c2u">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>Assessors Block 8711/Lot023</location>
+            <locationdesc>Set-up at 195 Channel St: 1:30pm-1:35pm</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934609</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>3887000</cnn>
+            <addr_date_create>2011-08-24T11:58:55</addr_date_create>
+            <addr_date_modified>2011-08-24T11:59:13</addr_date_modified>
+            <block>8711</block>
+            <lot>023</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6015253.3503</x>
+            <y>2109839.76272</y>
+            <latitude>37.774074841058272</latitude>
+            <longitude>-122.39066845814578</longitude>
+            <location_2>POINT (-122.390668458146 37.7740748410583)</location_2>
+        </row>
+        <row _id="row-tvzm~teka_4u7u" _uuid="00000000-0000-0000-C946-4DDBCA414B5E" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-tvzm~teka_4u7u">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0028</permit>
+            <location>544 02ND ST</location>
+            <locationdesc>Set-up at 550 2nd St: 7:00am-7:05am, 10:00am-10:05am, 11:55am-12:00pm</locationdesc>
+            <optionaltext>COLD TRUCK. Deli: bbq chicken skewer, Chinese spring roll, Chinese fried rice/noodle, fried
+                chicken leg/wing, bbq chicken sandwich, chicken cheese burger, burrito, lumpia. Snack: sunflower seeds,
+                muffins, chips, snickers, kit-kat, 10 types of chocolate. Drinks: Coke, 7-Up, Dr. Pepper, Pepsi,
+                Redbull, Vitamin Water, Rockstar, Coconut Juice, Water. Hot drinks: coffee, tea.
+            </optionaltext>
+            <locationid>1163786</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>144000</cnn>
+            <addr_date_create>2011-08-31T15:16:08</addr_date_create>
+            <addr_date_modified>2011-08-31T15:16:46</addr_date_modified>
+            <block>3775</block>
+            <lot>005</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>SOHOMEI, LLC</applicant>
+            <x>6014652.28096</x>
+            <y>2112911.53937</y>
+            <latitude>37.782475882459941</latitude>
+            <longitude>-122.39296263857815</longitude>
+            <location_2>POINT (-122.392962638578 37.7824758824599)</location_2>
+        </row>
+        <row _id="row-8kee.bjzt~qjvp" _uuid="00000000-0000-0000-0E94-6F793A098C39" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-8kee.bjzt~qjvp">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0197</permit>
+            <location>1525 BRYANT ST</location>
+            <locationdesc>10:25am-10:30am</locationdesc>
+            <optionaltext>Cold Truck: packaged sandwiches, pitas, breakfast, cold and hot drinks, snacks</optionaltext>
+            <locationid>1037693</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>24215000</cnn>
+            <addr_date_create>2011-08-09T11:03:04</addr_date_create>
+            <addr_date_modified>2011-08-09T11:03:23</addr_date_modified>
+            <block>3922A</block>
+            <lot>001A</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Munch A Bunch</applicant>
+            <x>6009438.81158</x>
+            <y>2107690.94096</y>
+            <latitude>37.767850371590328</latitude>
+            <longitude>-122.41063025866997</longitude>
+            <location_2>POINT (-122.41063025867 37.7678503715903)</location_2>
+        </row>
+        <row _id="row-s3wd_i2rf.picj" _uuid="00000000-0000-0000-5901-F761A27E77C6" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-s3wd_i2rf.picj">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>7PM</endtime>
+            <permit>17MFF-0063</permit>
+            <location>945 MARKET ST</location>
+            <locationdesc>Push cart located 20 feet west of the pedestrian crosswalk</locationdesc>
+            <optionaltext>Hot dogs, pretzels, chips, juices and cold drinks</optionaltext>
+            <locationid>934303</locationid>
+            <start24>10:00</start24>
+            <end24>19:00</end24>
+            <cnn>8749101</cnn>
+            <addr_date_create>2013-12-12T17:05:31</addr_date_create>
+            <addr_date_modified>2013-12-12T17:06:18</addr_date_modified>
+            <block>3704</block>
+            <lot>240</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Yummy Hot Dogs</applicant>
+            <x>6010040.31082</x>
+            <y>2113254.14946</y>
+            <latitude>37.783159348747013</latitude>
+            <longitude>-122.40894229708596</longitude>
+            <location_2>POINT (-122.408942297086 37.783159348747)</location_2>
+        </row>
+        <row _id="row-swvp.udxm-uygy" _uuid="00000000-0000-0000-C286-6D21422010AD" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-swvp.udxm-uygy">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0197</permit>
+            <location>1144 LARKIN ST</location>
+            <locationdesc>Set-up at 1180 Larkin St: 10:00am-10:15am</locationdesc>
+            <optionaltext>Cold Truck: packaged sandwiches, pitas, breakfast, cold and hot drinks, snacks</optionaltext>
+            <locationid>1037691</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>8137000</cnn>
+            <addr_date_create>2011-08-09T10:50:25</addr_date_create>
+            <addr_date_modified>2011-08-09T10:50:44</addr_date_modified>
+            <block>0279</block>
+            <lot>012</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Munch A Bunch</applicant>
+            <x>6007320.10921</x>
+            <y>2115238.57752</y>
+            <latitude>37.788455354186787</latitude>
+            <longitude>-122.41849387706054</longitude>
+            <location_2>POINT (-122.418493877061 37.7884553541868)</location_2>
+        </row>
+        <row _id="row-yk64_q3q7-6sgr" _uuid="00000000-0000-0000-7317-973EBF41B4EE" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-yk64_q3q7-6sgr">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0197</permit>
+            <location>365 FULTON ST</location>
+            <locationdesc>10:00am-10:15am</locationdesc>
+            <optionaltext>Cold Truck: packaged sandwiches, pitas, breakfast, cold and hot drinks, snacks</optionaltext>
+            <locationid>1037692</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5882000</cnn>
+            <addr_date_create>2011-08-09T11:01:33</addr_date_create>
+            <addr_date_modified>2011-08-09T11:01:47</addr_date_modified>
+            <block>0792</block>
+            <lot>028</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Munch A Bunch</applicant>
+            <x>6006015.89062</x>
+            <y>2111737.13061</y>
+            <latitude>37.778767733234154</latitude>
+            <longitude>-122.42275734107024</longitude>
+            <location_2>POINT (-122.42275734107 37.7787677332342)</location_2>
+        </row>
+        <row _id="row-sfx7_jf2d-sf6m" _uuid="00000000-0000-0000-2ED7-5C0E6DE34518" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-sfx7_jf2d-sf6m">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>501 YORK ST</location>
+            <locationdesc>Set-up at 500 York St: 10:05am-10:10am, 12:05pm-12:10pm, 2:05pm-2:10pm</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934591</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>13766000</cnn>
+            <addr_date_create>2011-07-01T10:49:09</addr_date_create>
+            <addr_date_modified>2011-07-01T10:49:46</addr_date_modified>
+            <block>4015</block>
+            <lot>008</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6009814.43595</x>
+            <y>2105935.78469</y>
+            <latitude>37.763052166424039</latitude>
+            <longitude>-122.40920714384413</longitude>
+            <location_2>POINT (-122.409207143844 37.763052166424)</location_2>
+        </row>
+        <row _id="row-2hv8~kmt9~yhvg" _uuid="00000000-0000-0000-26F2-B1EAA30B5655" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-2hv8~kmt9~yhvg">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00011</permit>
+            <location>898 PENNSYLVANIA AVE</location>
+            <locationdesc>10:15am-10:20am</locationdesc>
+            <optionaltext>Cold Truck: Hot/Cold Sandwiches, Water, Soda, Juice, Snacks, Milk, Candies, Canned Food,
+                Soups, Cup of Noodles, Fruit, Salad
+            </optionaltext>
+            <locationid>1292786</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>10336000</cnn>
+            <addr_date_create>2011-05-06T12:47:34</addr_date_create>
+            <addr_date_modified>2011-05-06T12:47:47</addr_date_modified>
+            <block>4167</block>
+            <lot>003</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>F &amp; C Catering</applicant>
+            <x>6014451.86044</x>
+            <y>2102970.27089</y>
+            <latitude>37.755168220827066</latitude>
+            <longitude>-122.39296024959715</longitude>
+            <location_2>POINT (-122.392960249597 37.7551682208271)</location_2>
+        </row>
+        <row _id="row-rs6b~x53t.kv43" _uuid="00000000-0000-0000-AC89-4B7265331468" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-rs6b~x53t.kv43">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00011</permit>
+            <location>2800 03RD ST</location>
+            <locationdesc>10:15am-10:20am</locationdesc>
+            <optionaltext>Cold Truck: Hot/Cold Sandwiches, Water, Soda, Juice, Snacks, Milk, Candies, Canned Food,
+                Soups, Cup of Noodles, Fruit, Salad
+            </optionaltext>
+            <locationid>1292790</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>193201</cnn>
+            <addr_date_create>2011-05-06T12:41:21</addr_date_create>
+            <addr_date_modified>2011-05-06T12:41:33</addr_date_modified>
+            <block>4246</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>F &amp; C Catering</applicant>
+            <x>6015888.45006</x>
+            <y>2102553.34969</y>
+            <latitude>37.754103136765082</latitude>
+            <longitude>-122.38796296600242</longitude>
+            <location_2>POINT (-122.387962966002 37.7541031367651)</location_2>
+        </row>
+        <row _id="row-dfmf-ibrj_d68p" _uuid="00000000-0000-0000-7543-9BCB16EED533" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-dfmf-ibrj_d68p">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0028</permit>
+            <location>85 02ND ST</location>
+            <locationdesc>Set-up at 580 Mission St: 7:00am-7:05am, 10:00am-10:10am, 12:00pm-12:10pm</locationdesc>
+            <optionaltext>COLD TRUCK. Deli: bbq chicken skewer, Chinese spring roll, Chinese fried rice/noodle, fried
+                chicken leg/wing, bbq chicken sandwich, chicken cheese burger, burrito, lumpia. Snack: sunflower seeds,
+                muffins, chips, snickers, kit-kat, 10 types of chocolate. Drinks: Coke, 7-Up, Dr. Pepper, Pepsi,
+                Redbull, Vitamin Water, Rockstar, Coconut Juice, Water. Hot drinks: coffee, tea.
+            </optionaltext>
+            <locationid>1163789</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>131000</cnn>
+            <addr_date_create>2011-08-31T15:31:13</addr_date_create>
+            <addr_date_modified>2011-08-31T15:32:09</addr_date_modified>
+            <block>3708</block>
+            <lot>019</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>SOHOMEI, LLC</applicant>
+            <x>6012660.25138</x>
+            <y>2115054.74519</y>
+            <latitude>37.788249774149101</latitude>
+            <longitude>-122.40000479204468</longitude>
+            <location_2>POINT (-122.400004792045 37.7882497741491)</location_2>
+        </row>
+        <row _id="row-py64.9a3f-s4bw" _uuid="00000000-0000-0000-8DB6-A161F4AA3FAC" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-py64.9a3f-s4bw">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0045</permit>
+            <location>251 11TH ST</location>
+            <locationdesc>Set-up at 253 11th St: 10:25am-10:30am, 3pm-3:05pm. 1480 Folsom 3pm-3:05pm</locationdesc>
+            <optionaltext>Cold Truck: Soda,Chips,Candy, Cold/Hot Sandwiches, Donuts. (Pitco Wholesale)</optionaltext>
+            <locationid>1181516</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>513000</cnn>
+            <addr_date_create>2011-04-13T15:23:38</addr_date_create>
+            <addr_date_modified>2011-04-13T15:24:07</addr_date_modified>
+            <block>3517</block>
+            <lot>015</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>John's Catering #5</applicant>
+            <x>6008300.48932</x>
+            <y>2109398.59891</y>
+            <latitude>37.772475314091146</latitude>
+            <longitude>-122.41468845701533</longitude>
+            <location_2>POINT (-122.414688457015 37.7724753140911)</location_2>
+        </row>
+        <row _id="row-ummc_rdiv_nztb" _uuid="00000000-0000-0000-80D9-6640EE91DE2F" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-ummc_rdiv_nztb">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>17MFF-0104</permit>
+            <location>231 SANSOME ST</location>
+            <locationdesc>a truck 45’ north from the SW corner of Pine and Sansome (west side)</locationdesc>
+            <optionaltext>Artisan Pizzas (Margherita, Yukon Potato, Zoe's Pepperoni, Funghi, Brocolli Rabe, Bacon Kale,
+                Arugula) and Drinks.
+            </optionaltext>
+            <locationid>934555</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>11544000</cnn>
+            <addr_date_create>2012-02-13T11:46:32</addr_date_create>
+            <addr_date_modified>2012-02-13T11:47:08</addr_date_modified>
+            <block>0260</block>
+            <lot>002</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Casey's Pizza, LLC</applicant>
+            <x>6012385.28623</x>
+            <y>2116572.60407</y>
+            <latitude>37.792402122271994</latitude>
+            <longitude>-122.40106282516396</longitude>
+            <location_2>POINT (-122.401062825164 37.792402122272)</location_2>
+        </row>
+        <row _id="row-k5m9_nzcz_ana6" _uuid="00000000-0000-0000-B771-C994E3372992" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-k5m9_nzcz_ana6">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>8PM</endtime>
+            <permit>17MFF-0177</permit>
+            <location>298 KING ST</location>
+            <locationdesc>Push cart located on the 4th Street Side approximately 40LF NW of the fire hydrant at the
+                King/4th St intersection, closer to the third tree. Not to block the pathway of the exit door of the
+                building.
+            </locationdesc>
+            <optionaltext>Gyros, Kebobs, refreshments and dessert</optionaltext>
+            <locationid>959619</locationid>
+            <start24>10:00</start24>
+            <end24>20:00</end24>
+            <cnn>267001</cnn>
+            <addr_date_create>2011-10-06T12:52:26</addr_date_create>
+            <block>8702</block>
+            <lot>606</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Kabob Trolley, LLC</applicant>
+            <x>6014275.8959</x>
+            <y>2110708.71965</y>
+            <latitude>37.776406524470936</latitude>
+            <longitude>-122.39411051385467</longitude>
+            <location_2>POINT (-122.394110513855 37.7764065244709)</location_2>
+        </row>
+        <row _id="row-9faw~6e8c~vwfi" _uuid="00000000-0000-0000-F42E-D3EB2194C3BE" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-9faw~6e8c~vwfi">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>301 BERRY ST</location>
+            <locationdesc>Set-up at 950 4th St: 10:03am-10:05am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934590</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>2955000</cnn>
+            <addr_date_create>2011-07-01T10:46:57</addr_date_create>
+            <addr_date_modified>2011-07-01T10:47:14</addr_date_modified>
+            <block>8708</block>
+            <lot>002</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6013828.87344</x>
+            <y>2109819.16634</y>
+            <latitude>37.773939155648684</latitude>
+            <longitude>-122.3955945628161</longitude>
+            <location_2>POINT (-122.395594562816 37.7739391556487)</location_2>
+        </row>
+        <row _id="row-h2ui.t9p2.ggrn" _uuid="00000000-0000-0000-93C7-192020798EBC" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-h2ui.t9p2.ggrn">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0197</permit>
+            <location>1345 TURK ST</location>
+            <locationdesc>10:00am-10:15am &amp; 12:00pm-12:15pm</locationdesc>
+            <optionaltext>Cold Truck: packaged sandwiches, pitas, breakfast, cold and hot drinks, snacks</optionaltext>
+            <locationid>1037695</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>12728000</cnn>
+            <addr_date_create>2011-08-09T11:05:28</addr_date_create>
+            <addr_date_modified>2011-08-09T11:05:51</addr_date_modified>
+            <block>0756</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Munch A Bunch</applicant>
+            <x>6003593.05269</x>
+            <y>2112440.56598</y>
+            <latitude>37.780562194780259</latitude>
+            <longitude>-122.43118910546622</longitude>
+            <location_2>POINT (-122.431189105466 37.7805621947803)</location_2>
+        </row>
+        <row _id="row-4eym~yijb-m7i4" _uuid="00000000-0000-0000-E923-392DEB95E008" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-4eym~yijb-m7i4">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0028</permit>
+            <location>432 CLAY ST</location>
+            <locationdesc>Set-up at 400 Clay St: 7:00am-7:10am, 10:00am-10:10am, 12:00pm-12:10pm</locationdesc>
+            <optionaltext>COLD TRUCK. Deli: bbq chicken skewer, Chinese spring roll, Chinese fried rice/noodle, fried
+                chicken leg/wing, bbq chicken sandwich, chicken cheese burger, burrito, lumpia. Snack: sunflower seeds,
+                muffins, chips, snickers, kit-kat, 10 types of chocolate. Drinks: Coke, 7-Up, Dr. Pepper, Pepsi,
+                Redbull, Vitamin Water, Rockstar, Coconut Juice, Water. Hot drinks: coffee, tea.
+            </optionaltext>
+            <locationid>1163791</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>4083000</cnn>
+            <addr_date_create>2011-08-31T15:37:17</addr_date_create>
+            <addr_date_modified>2011-08-31T15:38:07</addr_date_modified>
+            <block>0206</block>
+            <lot>006</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>SOHOMEI, LLC</applicant>
+            <x>6012503.29414</x>
+            <y>2117510.66106</y>
+            <latitude>37.794984386224662</latitude>
+            <longitude>-122.40072044206335</longitude>
+            <location_2>POINT (-122.400720442063 37.7949843862247)</location_2>
+        </row>
+        <row _id="row-fvq4.u9g5~uy7q" _uuid="00000000-0000-0000-345E-A37BE1DCB6DD" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-fvq4.u9g5~uy7q">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0045</permit>
+            <location>164 14TH ST</location>
+            <locationdesc>10:20am-10:25am</locationdesc>
+            <optionaltext>Cold Truck: Soda,Chips,Candy, Cold/Hot Sandwiches, Donuts. (Pitco Wholesale)</optionaltext>
+            <locationid>1181507</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>581000</cnn>
+            <addr_date_create>2011-04-13T13:02:29</addr_date_create>
+            <addr_date_modified>2011-10-24T11:20:29</addr_date_modified>
+            <block>3530</block>
+            <lot>048</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>John's Catering #5</applicant>
+            <x>6007598.90865</x>
+            <y>2107968.05434</y>
+            <latitude>37.768507933329552</latitude>
+            <longitude>-122.41701392185516</longitude>
+            <location_2>POINT (-122.417013921855 37.7685079333296)</location_2>
+        </row>
+        <row _id="row-55en-ket6.s5tt" _uuid="00000000-0000-0000-128F-840EF966121B" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-55en-ket6.s5tt">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>4PM</endtime>
+            <permit>18MFF-0004</permit>
+            <location>401 TREAT AVE</location>
+            <locationdesc>Located on the West side of the Harrison St frontage at the corner of 17th St</locationdesc>
+            <optionaltext>Tacos, Burritos, Tortas, Quesadillas, Drinks</optionaltext>
+            <locationid>1089697</locationid>
+            <start24>10:00</start24>
+            <end24>16:00</end24>
+            <cnn>6746000</cnn>
+            <addr_date_create>2011-03-04T11:50:24</addr_date_create>
+            <addr_date_modified>2011-03-04T11:56:57</addr_date_modified>
+            <block>3573</block>
+            <lot>023</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>El Tonayense #60</applicant>
+            <x>6008569.45364</x>
+            <y>2106219.67883</y>
+            <latitude>37.763761847259403</latitude>
+            <longitude>-122.41353320847404</longitude>
+            <location_2>POINT (-122.413533208474 37.7637618472594)</location_2>
+        </row>
+        <row _id="row-5np5.juvi_cuq8" _uuid="00000000-0000-0000-B750-CC4F370811C1" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-5np5.juvi_cuq8">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>1075 LE CONTE AVE</location>
+            <locationdesc>10:03am-10:04am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934629</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>8234000</cnn>
+            <addr_date_create>2011-11-14T16:18:25</addr_date_create>
+            <addr_date_modified>2011-11-14T16:18:47</addr_date_modified>
+            <block>5476</block>
+            <lot>009</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6012701.7208</x>
+            <y>2089863.36063</y>
+            <latitude>37.71908201674038</latitude>
+            <longitude>-122.39809332021149</longitude>
+            <location_2>POINT (-122.398093320211 37.7190820167404)</location_2>
+        </row>
+        <row _id="row-b52n.tcx4.k3yn" _uuid="00000000-0000-0000-2D1F-75135794D8AB" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-b52n.tcx4.k3yn">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00011</permit>
+            <location>1500 TENNESSEE ST</location>
+            <locationdesc>10:40am-10:45am</locationdesc>
+            <optionaltext>Cold Truck: Hot/Cold Sandwiches, Water, Soda, Juice, Snacks, Milk, Candies, Canned Food,
+                Soups, Cup of Noodles, Fruit, Salad
+            </optionaltext>
+            <locationid>1292787</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>12491000</cnn>
+            <addr_date_create>2011-05-06T12:49:52</addr_date_create>
+            <addr_date_modified>2011-05-06T12:50:07</addr_date_modified>
+            <block>4294</block>
+            <lot>012</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>F &amp; C Catering</applicant>
+            <x>6015638.01363</x>
+            <y>2101922.12679</y>
+            <latitude>37.752356054296584</latitude>
+            <longitude>-122.3887849804118</longitude>
+            <location_2>POINT (-122.388784980412 37.7523560542966)</location_2>
+        </row>
+        <row _id="row-znz5~vdf7_esxq" _uuid="00000000-0000-0000-0505-D3CF3027E33B" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-znz5~vdf7_esxq">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>3PM</endtime>
+            <permit>18MFF-0094</permit>
+            <location>535 MISSION BAY BLVD SOUTH</location>
+            <locationdesc>535 Mission Bay Blvd South: 1 Truck located on the south side of Mission Bay Blvd South
+                between 3rd St and 4th St, approximately 80 linear feet east of the 4th St and Mission Bay Blvd South
+                intersection. 6 Trucks located in the first 6 parking spaces on the east side of 4th Street between
+                Mission Bay Blvd South and Nelson Rising Lane, just south of the 4th Street and Mission Bay Blvd South
+                intersection.
+            </locationdesc>
+            <optionaltext>7 Multiple Trucks on rotation (1 on Mission Bay Blvd South &amp; 6 on 4th St). Serving
+                everything but hot dogs
+            </optionaltext>
+            <locationid>1200178</locationid>
+            <start24>10:00</start24>
+            <end24>15:00</end24>
+            <cnn>15019101</cnn>
+            <addr_date_create>2013-05-22T16:05:45</addr_date_create>
+            <addr_date_modified>2013-05-22T16:06:37</addr_date_modified>
+            <block>8711</block>
+            <lot>007</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>SF Cart Project</applicant>
+            <x>6015399.40053</x>
+            <y>2108558.93496</y>
+            <latitude>37.770566072451281</latitude>
+            <longitude>-122.39007374600111</longitude>
+            <location_2>POINT (-122.390073746001 37.7705660724513)</location_2>
+        </row>
+        <row _id="row-wikv~hfxx~pyx6" _uuid="00000000-0000-0000-E4A5-38286D457A7E" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-wikv~hfxx~pyx6">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>9PM</endtime>
+            <permit>13MFF-0112</permit>
+            <location>2101 CARROLL AVE</location>
+            <locationdesc>10:00am-9:00pm</locationdesc>
+            <locationid>453012</locationid>
+            <start24>10:00</start24>
+            <end24>21:00</end24>
+            <cnn>3742000</cnn>
+            <addr_date_create>2011-10-25T08:51:46</addr_date_create>
+            <addr_date_modified>2011-10-25T08:52:10</addr_date_modified>
+            <block>5436</block>
+            <lot>012</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Tacos Santana</applicant>
+            <x>6011435.03753</x>
+            <y>2093950.28359</y>
+            <latitude>37.730233232358842</latitude>
+            <longitude>-122.40275904847839</longitude>
+            <location_2>POINT (-122.402759048478 37.7302332323588)</location_2>
+        </row>
+        <row _id="row-fzrp-yxme~d7mx" _uuid="00000000-0000-0000-9306-9B32B177FC26" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-fzrp-yxme~d7mx">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>Assessors Block 8710/Lot003</location>
+            <locationdesc>Set-up at 1325 06th St: 10:00am-10:03am, 12:00pm-12:03pm, 1:00pm-1:05pm</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934625</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>0</cnn>
+            <addr_date_create>2011-08-31T11:24:47</addr_date_create>
+            <addr_date_modified>2011-08-31T11:25:41</addr_date_modified>
+            <block>8710</block>
+            <lot>003</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6014416.532</x>
+            <y>2108607.696</y>
+            <latitude>37.77064539839084</latitude>
+            <longitude>-122.39347693719959</longitude>
+            <location_2>POINT (-122.3934769372 37.7706453983908)</location_2>
+        </row>
+        <row _id="row-7z3f.ad78~8t9v" _uuid="00000000-0000-0000-4E03-C77D9B07805E" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-7z3f.ad78~8t9v">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>7PM</endtime>
+            <permit>18MFF-0005</permit>
+            <location>1717 HARRISON ST</location>
+            <locationdesc>Just North of Best Buy's curb cut</locationdesc>
+            <optionaltext>Tacos, Burritos, Tortas, Quesadillas</optionaltext>
+            <locationid>1090081</locationid>
+            <start24>10:00</start24>
+            <end24>19:00</end24>
+            <cnn>6740000</cnn>
+            <addr_date_create>2011-03-04T13:14:52</addr_date_create>
+            <addr_date_modified>2011-10-24T11:03:49</addr_date_modified>
+            <block>3901</block>
+            <lot>001</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>El Tonayanse #4 / #36</applicant>
+            <x>6008669.77932</x>
+            <y>2108251.24409</y>
+            <latitude>37.769345687522147</latitude>
+            <longitude>-122.41332988883137</longitude>
+            <location_2>POINT (-122.413329888831 37.7693456875221)</location_2>
+        </row>
+        <row _id="row-hzus~biy9.vg6f" _uuid="00000000-0000-0000-DA94-592CFC54D767" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-hzus~biy9.vg6f">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0028</permit>
+            <location>690 MISSION ST</location>
+            <locationdesc>7:10am-7:15am, 10:05am-10:15am, 12:00pm-12:05pm</locationdesc>
+            <optionaltext>COLD TRUCK. Deli: bbq chicken skewer, Chinese spring roll, Chinese fried rice/noodle, fried
+                chicken leg/wing, bbq chicken sandwich, chicken cheese burger, burrito, lumpia. Snack: sunflower seeds,
+                muffins, chips, snickers, kit-kat, 10 types of chocolate. Drinks: Coke, 7-Up, Dr. Pepper, Pepsi,
+                Redbull, Vitamin Water, Rockstar, Coconut Juice, Water. Hot drinks: coffee, tea.
+            </optionaltext>
+            <locationid>1163788</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>9094000</cnn>
+            <addr_date_create>2011-08-31T15:20:16</addr_date_create>
+            <addr_date_modified>2011-08-31T15:20:56</addr_date_modified>
+            <block>3707</block>
+            <lot>024</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>SOHOMEI, LLC</applicant>
+            <x>6012107.51053</x>
+            <y>2114409.4119</y>
+            <latitude>37.786447007961982</latitude>
+            <longitude>-122.40187181336954</longitude>
+            <location_2>POINT (-122.40187181337 37.786447007962)</location_2>
+        </row>
+        <row _id="row-6zb5-k8ri-ribr" _uuid="00000000-0000-0000-18DB-96F47C8346CF" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-6zb5-k8ri-ribr">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>720 YORK ST</location>
+            <locationdesc>Set-up at 750 York St: 10:25am-10:30am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934594</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>13768000</cnn>
+            <addr_date_create>2011-07-01T10:53:54</addr_date_create>
+            <addr_date_modified>2011-07-01T10:54:10</addr_date_modified>
+            <block>4080</block>
+            <lot>018</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6009832.3548</x>
+            <y>2104915.2843</y>
+            <latitude>37.760251107765107</latitude>
+            <longitude>-122.4090731573115</longitude>
+            <location_2>POINT (-122.409073157312 37.7602511077651)</location_2>
+        </row>
+        <row _id="row-2bsq~mf9c-typd" _uuid="00000000-0000-0000-1722-F67686CAC473" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-2bsq~mf9c-typd">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>19MFF-00011</permit>
+            <location>900 MINNESOTA ST</location>
+            <locationdesc>10:30am-10:35am</locationdesc>
+            <optionaltext>Cold Truck: Hot/Cold Sandwiches, Water, Soda, Juice, Snacks, Milk, Candies, Canned Food,
+                Soups, Cup of Noodles, Fruit, Salad
+            </optionaltext>
+            <locationid>1292791</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>9056000</cnn>
+            <addr_date_create>2011-05-06T12:48:13</addr_date_create>
+            <addr_date_modified>2011-05-06T12:48:28</addr_date_modified>
+            <block>4106</block>
+            <lot>001A</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>F &amp; C Catering</applicant>
+            <x>6015220.85423</x>
+            <y>2104389.81393</y>
+            <latitude>37.759108668124071</latitude>
+            <longitude>-122.39040000054339</longitude>
+            <location_2>POINT (-122.390400000543 37.7591086681241)</location_2>
+        </row>
+        <row _id="row-bisi~8j6r_c944" _uuid="00000000-0000-0000-DB77-2333F9C5CD1D" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-bisi~8j6r_c944">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>Assessors Block 8727/Lot005</location>
+            <locationdesc>Set-up at 800 16th St: 9:55am-9:57am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934587</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>699001</cnn>
+            <addr_date_create>2011-07-01T09:46:55</addr_date_create>
+            <addr_date_modified>2011-07-01T09:47:30</addr_date_modified>
+            <block>8727</block>
+            <lot>005</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6014460.137</x>
+            <y>2106764.375</y>
+            <latitude>37.76558646814734</latitude>
+            <longitude>-122.39319710116628</longitude>
+            <location_2>POINT (-122.393197101166 37.7655864681473)</location_2>
+        </row>
+        <row _id="row-62bc-k9ag-e7jb" _uuid="00000000-0000-0000-8C60-E6CCF531361A" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-62bc-k9ag-e7jb">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>Assessors Block 3810/Lot008</location>
+            <locationdesc>Set-up at 255 Channel St: 1:20pm-1:25pm</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934608</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>3889000</cnn>
+            <addr_date_create>2011-08-24T11:30:40</addr_date_create>
+            <addr_date_modified>2011-08-24T11:31:00</addr_date_modified>
+            <block>3810</block>
+            <lot>008</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6013705.031</x>
+            <y>2109129.688</y>
+            <latitude>37.772039113524961</latitude>
+            <longitude>-122.39597463158631</longitude>
+            <location_2>POINT (-122.395974631586 37.772039113525)</location_2>
+        </row>
+        <row _id="row-uu8t-h9qn.cj9b" _uuid="00000000-0000-0000-F28E-930C4CDC843B" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-uu8t-h9qn.cj9b">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>1059 EVANS AVE</location>
+            <locationdesc>Set-up at 25 Middle Point: 10:04am-10:05am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934630</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5329000</cnn>
+            <addr_date_create>2011-11-14T16:22:03</addr_date_create>
+            <addr_date_modified>2011-11-14T16:22:25</addr_date_modified>
+            <block>4603A</block>
+            <lot>005</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6018598.7259</x>
+            <y>2096295.90515</y>
+            <latitude>37.737071230505592</latitude>
+            <longitude>-122.37815571814879</longitude>
+            <location_2>POINT (-122.378155718149 37.7370712305056)</location_2>
+        </row>
+        <row _id="row-ibp5~zxu6_99tz" _uuid="00000000-0000-0000-E7E1-CAE54F0ACB1E" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-ibp5~zxu6_99tz">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0028</permit>
+            <location>1 THOMAS MORE WAY</location>
+            <locationdesc>7:00am-7:10am, 10:00am-10:10am, 12:00pm-12:10pm</locationdesc>
+            <optionaltext>COLD TRUCK. Deli: bbq chicken skewer, Chinese spring roll, Chinese fried rice/noodle, fried
+                chicken leg/wing, bbq chicken sandwich, chicken cheese burger, burrito, lumpia. Snack: sunflower seeds,
+                muffins, chips, snickers, kit-kat, 10 types of chocolate. Drinks: Coke, 7-Up, Dr. Pepper, Pepsi,
+                Redbull, Vitamin Water, Rockstar, Coconut Juice, Water. Hot drinks: coffee, tea.
+            </optionaltext>
+            <locationid>1163792</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>12583000</cnn>
+            <addr_date_create>2011-08-31T15:39:41</addr_date_create>
+            <addr_date_modified>2011-08-31T15:40:19</addr_date_modified>
+            <block>7380</block>
+            <lot>027</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>SOHOMEI, LLC</applicant>
+            <x>5991083.26248</x>
+            <y>2088048.7782</y>
+            <latitude>37.712871813938413</latitude>
+            <longitude>-122.47268703750933</longitude>
+            <location_2>POINT (-122.472687037509 37.7128718139384)</location_2>
+        </row>
+        <row _id="row-5sgu.zksj_wbjg" _uuid="00000000-0000-0000-3E3B-A4397BEFCC78" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-5sgu.zksj_wbjg">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0028</permit>
+            <location>1540 PINE ST</location>
+            <locationdesc>10:45am-10:55am</locationdesc>
+            <optionaltext>COLD TRUCK. Deli: bbq chicken skewer, Chinese spring roll, Chinese fried rice/noodle, fried
+                chicken leg/wing, bbq chicken sandwich, chicken cheese burger, burrito, lumpia. Snack: sunflower seeds,
+                muffins, chips, snickers, kit-kat, 10 types of chocolate. Drinks: Coke, 7-Up, Dr. Pepper, Pepsi,
+                Redbull, Vitamin Water, Rockstar, Coconut Juice, Water. Hot drinks: coffee, tea.
+            </optionaltext>
+            <locationid>1163783</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>10477000</cnn>
+            <addr_date_create>2011-08-31T15:04:39</addr_date_create>
+            <addr_date_modified>2011-08-31T15:10:52</addr_date_modified>
+            <block>0646</block>
+            <lot>005</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>SOHOMEI, LLC</applicant>
+            <x>6006551.51583</x>
+            <y>2115667.02377</y>
+            <latitude>37.789588462962705</latitude>
+            <longitude>-122.42118352921651</longitude>
+            <location_2>POINT (-122.421183529217 37.7895884629627)</location_2>
+        </row>
+        <row _id="row-ss4g_t42h-inmg" _uuid="00000000-0000-0000-7037-CB7162FC14CA" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-ss4g_t42h-inmg">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0028</permit>
+            <location>Assessors Block 3902/Lot002</location>
+            <locationdesc>Set-up at 50 Treat Ave: 7:00am-7:10am, 10:00am-10:10am, 12:00pm-12:10pm</locationdesc>
+            <optionaltext>COLD TRUCK. Deli: bbq chicken skewer, Chinese spring roll, Chinese fried rice/noodle, fried
+                chicken leg/wing, bbq chicken sandwich, chicken cheese burger, burrito, lumpia. Snack: sunflower seeds,
+                muffins, chips, snickers, kit-kat, 10 types of chocolate. Drinks: Coke, 7-Up, Dr. Pepper, Pepsi,
+                Redbull, Vitamin Water, Rockstar, Coconut Juice, Water. Hot drinks: coffee, tea.
+            </optionaltext>
+            <locationid>1163790</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>12678000</cnn>
+            <addr_date_create>2011-08-31T15:34:52</addr_date_create>
+            <addr_date_modified>2011-08-31T15:35:34</addr_date_modified>
+            <block>3902</block>
+            <lot>002</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>SOHOMEI, LLC</applicant>
+            <x>6009046.271</x>
+            <y>2107865.259</y>
+            <latitude>37.768306992799992</latitude>
+            <longitude>-122.41200033609215</longitude>
+            <location_2>POINT (-122.412000336092 37.7683069928)</location_2>
+        </row>
+        <row _id="row-x73a.e6c6~a7h4" _uuid="00000000-0000-0000-0220-81CB801173E4" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-x73a.e6c6~a7h4">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0028</permit>
+            <location>2401 22ND ST</location>
+            <locationdesc>Set-up at 2450 22nd St: 10:00am-10:20am</locationdesc>
+            <optionaltext>COLD TRUCK. Deli: bbq chicken skewer, Chinese spring roll, Chinese fried rice/noodle, fried
+                chicken leg/wing, bbq chicken sandwich, chicken cheese burger, burrito, lumpia. Snack: sunflower seeds,
+                muffins, chips, snickers, kit-kat, 10 types of chocolate. Drinks: Coke, 7-Up, Dr. Pepper, Pepsi,
+                Redbull, Vitamin Water, Rockstar, Coconut Juice, Water. Hot drinks: coffee, tea.
+            </optionaltext>
+            <locationid>1163800</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>1177000</cnn>
+            <addr_date_create>2011-08-31T16:23:53</addr_date_create>
+            <addr_date_modified>2011-08-31T16:24:07</addr_date_modified>
+            <block>4154</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>SOHOMEI, LLC</applicant>
+            <x>6011059.03435</x>
+            <y>2103668.5369</y>
+            <latitude>37.756896459173859</latitude>
+            <longitude>-122.40474285415281</longitude>
+            <location_2>POINT (-122.404742854153 37.7568964591739)</location_2>
+        </row>
+        <row _id="row-yddj~62ct_vyj5" _uuid="00000000-0000-0000-007B-F0928B12321C" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-yddj~62ct_vyj5">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>2130 HARRISON ST</location>
+            <locationdesc>10:00am-10:05am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934589</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>6746000</cnn>
+            <addr_date_create>2011-07-01T10:39:31</addr_date_create>
+            <addr_date_modified>2011-07-01T10:39:46</addr_date_modified>
+            <block>3573</block>
+            <lot>046</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6008721.97001</x>
+            <y>2105981.43883</y>
+            <latitude>37.763116257731866</latitude>
+            <longitude>-122.41298885341656</longitude>
+            <location_2>POINT (-122.412988853417 37.7631162577319)</location_2>
+        </row>
+        <row _id="row-vegs~zgb9~88xx" _uuid="00000000-0000-0000-3693-1645A8C4E3B9" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-vegs~zgb9~88xx">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>18MFF-0021</permit>
+            <location>240 02ND ST</location>
+            <locationdesc>Truck located approximately 10 feet south of the 2nd St. and Tehama St. intersection.
+            </locationdesc>
+            <optionaltext>American classic slider, fried chicken slider, fried chicken skin, wedge cut fries, regular
+                cut fries, handcrafted sodas, spring salad
+            </optionaltext>
+            <locationid>1153604</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>136000</cnn>
+            <addr_date_create>2018-05-01T15:42:46</addr_date_create>
+            <addr_date_modified>2018-07-17T14:54:49</addr_date_modified>
+            <block>3735</block>
+            <lot>055</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>SPUNBYSS</applicant>
+            <x>6013400.29987</x>
+            <y>2114222.87694</y>
+            <latitude>37.786006889610768</latitude>
+            <longitude>-122.39738596912339</longitude>
+            <location_2>POINT (-122.397385969123 37.7860068896108)</location_2>
+        </row>
+        <row _id="row-8sij_kwu7_55g5" _uuid="00000000-0000-0000-3BF0-2143A0027AD7" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-8sij_kwu7_55g5">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0045</permit>
+            <location>1601 MARKET ST</location>
+            <locationdesc>Set-up at 10 12th St: 10:45am-10:55am</locationdesc>
+            <optionaltext>Cold Truck: Soda,Chips,Candy, Cold/Hot Sandwiches, Donuts. (Pitco Wholesale)</optionaltext>
+            <locationid>1181508</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>8756101</cnn>
+            <addr_date_create>2011-04-13T15:00:19</addr_date_create>
+            <addr_date_modified>2011-04-13T15:00:38</addr_date_modified>
+            <block>3505</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>John's Catering #5</applicant>
+            <x>6006676.76811</x>
+            <y>2110038.46721</y>
+            <latitude>37.774140877852659</latitude>
+            <longitude>-122.42035050390822</longitude>
+            <location_2>POINT (-122.420350503908 37.7741408778527)</location_2>
+        </row>
+        <row _id="row-js5t-3hus.jhjf" _uuid="00000000-0000-0000-4BA8-BD626DCF73EF" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-js5t-3hus.jhjf">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>8PM</endtime>
+            <permit>11MFF-0175</permit>
+            <location>901 MARKET ST</location>
+            <locationdesc>Pushcart located on the Market St sidewalk frontage approximately 5LF East of the Western
+                property line.
+            </locationdesc>
+            <optionaltext>Kebab, Halal Gyros, Grilled Halal Meat, Beverages</optionaltext>
+            <locationid>334914</locationid>
+            <start24>10:00</start24>
+            <end24>20:00</end24>
+            <cnn>8748101</cnn>
+            <addr_date_create>2011-09-26T13:04:01</addr_date_create>
+            <addr_date_modified>2011-09-26T13:05:36</addr_date_modified>
+            <block>3704</block>
+            <lot>001</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Halal Cart, LLC</applicant>
+            <x>6010316.03704</x>
+            <y>2113536.07269</y>
+            <latitude>37.783948884288215</latitude>
+            <longitude>-122.40800827936319</longitude>
+            <location_2>POINT (-122.408008279363 37.7839488842882)</location_2>
+        </row>
+        <row _id="row-ekw4.qfp2_ifie" _uuid="00000000-0000-0000-E12F-BDDF9E8AD002" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-ekw4.qfp2_ifie">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>2PM</endtime>
+            <permit>17MFF-0197</permit>
+            <location>2200 WEBSTER ST</location>
+            <locationdesc>10:30am-1:30am</locationdesc>
+            <optionaltext>Cold Truck: packaged sandwiches, pitas, breakfast, cold and hot drinks, snacks</optionaltext>
+            <locationid>1037694</locationid>
+            <start24>10:00</start24>
+            <end24>14:00</end24>
+            <cnn>13547000</cnn>
+            <addr_date_create>2011-08-09T11:03:51</addr_date_create>
+            <addr_date_modified>2011-08-09T11:04:13</addr_date_modified>
+            <block>0613</block>
+            <lot>003</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>Munch A Bunch</applicant>
+            <x>6003292.81403</x>
+            <y>2116231.84055</y>
+            <latitude>37.790955058385009</latitude>
+            <longitude>-122.43249864822073</longitude>
+            <location_2>POINT (-122.432498648221 37.790955058385)</location_2>
+        </row>
+        <row _id="row-pyyx.q4ck_gqy3" _uuid="00000000-0000-0000-112F-CE7C9FF17D01" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-pyyx.q4ck_gqy3">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>2000 FOLSOM ST</location>
+            <locationdesc>10:30am-10:35am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934595</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5690000</cnn>
+            <addr_date_create>2011-07-01T10:54:58</addr_date_create>
+            <addr_date_modified>2011-07-01T10:55:20</addr_date_modified>
+            <block>3571</block>
+            <lot>001</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6008048.383</x>
+            <y>2106787.69855</y>
+            <latitude>37.765292225445819</latitude>
+            <longitude>-122.41537565189628</longitude>
+            <location_2>POINT (-122.415375651896 37.7652922254458)</location_2>
+        </row>
+        <row _id="row-tx5y.ghi9~dhtb" _uuid="00000000-0000-0000-28B9-C776DDA497FB" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-tx5y.ghi9~dhtb">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>18MFF-0028</permit>
+            <location>730 ELLIS ST</location>
+            <locationdesc>10:30am-10:40am</locationdesc>
+            <optionaltext>COLD TRUCK. Deli: bbq chicken skewer, Chinese spring roll, Chinese fried rice/noodle, fried
+                chicken leg/wing, bbq chicken sandwich, chicken cheese burger, burrito, lumpia. Snack: sunflower seeds,
+                muffins, chips, snickers, kit-kat, 10 types of chocolate. Drinks: Coke, 7-Up, Dr. Pepper, Pepsi,
+                Redbull, Vitamin Water, Rockstar, Coconut Juice, Water. Hot drinks: coffee, tea.
+            </optionaltext>
+            <locationid>1163801</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>5178000</cnn>
+            <addr_date_create>2011-08-31T16:26:16</addr_date_create>
+            <addr_date_modified>2011-08-31T16:27:35</addr_date_modified>
+            <block>0717</block>
+            <lot>006</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>SOHOMEI, LLC</applicant>
+            <x>6007360.68321</x>
+            <y>2113696.81407</y>
+            <latitude>37.784224332651476</latitude>
+            <longitude>-122.41824414341434</longitude>
+            <location_2>POINT (-122.418244143414 37.7842243326515)</location_2>
+        </row>
+        <row _id="row-h78d_6ri8-ipsd" _uuid="00000000-0000-0000-A25F-7392E6C4542F" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-h78d_6ri8-ipsd">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>Assessors Block 4347a/Lot004</location>
+            <locationdesc>Set-up at 50 Napoleon St: 12:08pm-12:10pm</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934604</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>9503000</cnn>
+            <addr_date_create>2011-08-24T11:06:39</addr_date_create>
+            <addr_date_modified>2011-08-24T11:06:59</addr_date_modified>
+            <block>4347a</block>
+            <lot>004</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6013931.07958</x>
+            <y>2100313.06289</y>
+            <latitude>37.747843153372401</latitude>
+            <longitude>-122.39457521495656</longitude>
+            <location_2>POINT (-122.394575214957 37.7478431533724)</location_2>
+        </row>
+        <row _id="row-yqkp.zeci~subn" _uuid="00000000-0000-0000-ACD6-74B8212FEEDF" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-yqkp.zeci~subn">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>10PM</endtime>
+            <permit>17MFF-0169</permit>
+            <location>200 SHOTWELL ST</location>
+            <optionaltext>Tacos, Burritos, Tortas, Quesadillas, Mexican Drinks, Aguas Frescas</optionaltext>
+            <locationid>953198</locationid>
+            <start24>10:00</start24>
+            <end24>22:00</end24>
+            <cnn>11834000</cnn>
+            <addr_date_create>2011-03-04T10:30:43</addr_date_create>
+            <addr_date_modified>2011-07-21T11:23:49</addr_date_modified>
+            <block>3571</block>
+            <lot>014</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Santana ESG, Inc.</applicant>
+            <x>6007736.69666</x>
+            <y>2106759.30311</y>
+            <latitude>37.765196735050935</latitude>
+            <longitude>-122.41645169290203</longitude>
+            <location_2>POINT (-122.416451692902 37.7651967350509)</location_2>
+        </row>
+        <row _id="row-gvmk~v2qp.b9sf" _uuid="00000000-0000-0000-C7D8-0007CF4DC3B3" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-gvmk~v2qp.b9sf">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>11AM</endtime>
+            <permit>17MFF-0110</permit>
+            <location>501 ALABAMA ST</location>
+            <locationdesc>10:37am-10:45am</locationdesc>
+            <optionaltext>Cold Truck: Sandwiches, fruit, snacks, candy, hot and cold drinks</optionaltext>
+            <locationid>934596</locationid>
+            <start24>10:00</start24>
+            <end24>11:00</end24>
+            <cnn>2111000</cnn>
+            <addr_date_create>2011-07-01T10:59:35</addr_date_create>
+            <addr_date_modified>2011-07-01T10:59:50</addr_date_modified>
+            <block>4018</block>
+            <lot>005</lot>
+            <coldtruck>Y</coldtruck>
+            <applicant>May Catering</applicant>
+            <x>6008976.93385</x>
+            <y>2105890.87396</y>
+            <latitude>37.762881896359922</latitude>
+            <longitude>-122.41210061537996</longitude>
+            <location_2>POINT (-122.41210061538 37.7628818963599)</location_2>
+        </row>
+        <row _id="row-nus9~mx4p_bun8" _uuid="00000000-0000-0000-C47C-D6D57CD9BCBB" _position="0"
+             _address="http://data.sfgov.org/resource/jjew-r69b/row-nus9~mx4p_bun8">
+            <dayorder>1</dayorder>
+            <dayofweekstr>Monday</dayofweekstr>
+            <starttime>10AM</starttime>
+            <endtime>4PM</endtime>
+            <permit>18MFF-0006</permit>
+            <location>1700 EVANS AVE</location>
+            <locationdesc>Set-up at 398 Quint Street: 10:30am-4:00pmm</locationdesc>
+            <optionaltext>Mexican food: tacos, burritos, tortas, various meat and chicken and fish plate, chile relleno
+                plate, fish plate, bread, flan, rice pudding, bread, fruit juice, vegetable juice, coffee, tea
+            </optionaltext>
+            <locationid>1090089</locationid>
+            <start24>10:00</start24>
+            <end24>16:00</end24>
+            <cnn>10829000</cnn>
+            <addr_date_create>2011-07-25T09:17:47</addr_date_create>
+            <addr_date_modified>2011-07-25T09:18:04</addr_date_modified>
+            <block>5227</block>
+            <lot>001</lot>
+            <coldtruck>N</coldtruck>
+            <applicant>Tacos El Primo</applicant>
+            <x>6015127.02922</x>
+            <y>2098933.73356</y>
+            <latitude>37.744122218134585</latitude>
+            <longitude>-122.39034328651121</longitude>
+            <location_2>POINT (-122.390343286511 37.7441222181346)</location_2>
+        </row>
+    </rows>
+</response>
