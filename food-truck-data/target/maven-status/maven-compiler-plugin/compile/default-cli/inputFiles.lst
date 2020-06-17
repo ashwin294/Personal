@@ -1,9 +1,0 @@
-/Users/z0040f9/git/food-truck-data/src/main/java/org/assignment/entities/RequestType.java
-/Users/z0040f9/git/food-truck-data/src/main/java/org/assignment/exceptions/InvalidDataException.java
-/Users/z0040f9/git/food-truck-data/src/main/java/org/assignment/service/impl/JsonFoodTruckDataReader.java
-/Users/z0040f9/git/food-truck-data/src/main/java/org/assignment/utils/RestClientUtil.java
-/Users/z0040f9/git/food-truck-data/src/main/java/org/assignment/entities/FoodTruckResultModel.java
-/Users/z0040f9/git/food-truck-data/src/main/java/org/assignment/runner/TestRunner.java
-/Users/z0040f9/git/food-truck-data/src/main/java/org/assignment/exceptions/APIRequestException.java
-/Users/z0040f9/git/food-truck-data/src/main/java/org/assignment/entities/APIResponse.java
-/Users/z0040f9/git/food-truck-data/src/main/java/org/assignment/service/FoodTruckDataReader.java
