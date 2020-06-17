@@ -13,6 +13,7 @@ public class LithAna {
 		for (int i : minimumDifference) {
 			System.out.println(i);
 		}
+
 	}
 
 	private static int[] getMinimumDifference(String[] a, String[] b) {
